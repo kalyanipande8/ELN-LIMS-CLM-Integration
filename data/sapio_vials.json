@@ -1,0 +1,3897 @@
+[
+  {
+    "recordId": 100000,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025000",
+      "CellLineName": "THP-1-C8",
+      "VialId": "VIAL-100000",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-09-09",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-03",
+      "StoragePosition": "B6",
+      "CellCountAtFreeze": 3444390,
+      "ViabilityPctAtFreeze": 85.8,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100001,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025000",
+      "CellLineName": "THP-1-C8",
+      "VialId": "VIAL-100001",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-03-05",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-14",
+      "StoragePosition": "B4",
+      "CellCountAtFreeze": 1380477,
+      "ViabilityPctAtFreeze": 92.7,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100002,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025000",
+      "CellLineName": "THP-1-C8",
+      "VialId": "VIAL-100002",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-08-09",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-19",
+      "StoragePosition": "A7",
+      "CellCountAtFreeze": 1207992,
+      "ViabilityPctAtFreeze": 98.7,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100003,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025000",
+      "CellLineName": "THP-1-C8",
+      "VialId": "VIAL-100003",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-06-01",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-14",
+      "StoragePosition": "C9",
+      "CellCountAtFreeze": 1494056,
+      "ViabilityPctAtFreeze": 93.0,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100004,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "VialId": "VIAL-100004",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-07-03",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-12",
+      "StoragePosition": "B9",
+      "CellCountAtFreeze": 3986809,
+      "ViabilityPctAtFreeze": 85.9,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100005,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "VialId": "VIAL-100005",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-06-17",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-11",
+      "StoragePosition": "H8",
+      "CellCountAtFreeze": 2516586,
+      "ViabilityPctAtFreeze": 89.2,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100006,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "VialId": "VIAL-100006",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-07-07",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-19",
+      "StoragePosition": "E9",
+      "CellCountAtFreeze": 3076668,
+      "ViabilityPctAtFreeze": 97.3,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100007,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "VialId": "VIAL-100007",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-05-04",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-04",
+      "StoragePosition": "G3",
+      "CellCountAtFreeze": 4175679,
+      "ViabilityPctAtFreeze": 89.8,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100008,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "VialId": "VIAL-100008",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-04-27",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-18",
+      "StoragePosition": "F6",
+      "CellCountAtFreeze": 3916280,
+      "ViabilityPctAtFreeze": 89.9,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100009,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "VialId": "VIAL-100009",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-06-07",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-03",
+      "StoragePosition": "E8",
+      "CellCountAtFreeze": 3923606,
+      "ViabilityPctAtFreeze": 94.3,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100010,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "VialId": "VIAL-100010",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-07-16",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-10",
+      "StoragePosition": "G6",
+      "CellCountAtFreeze": 1094635,
+      "ViabilityPctAtFreeze": 98.2,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100011,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "VialId": "VIAL-100011",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-02-22",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-02",
+      "StoragePosition": "D5",
+      "CellCountAtFreeze": 1542492,
+      "ViabilityPctAtFreeze": 95.3,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100012,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025002",
+      "CellLineName": "HEK293-C15",
+      "VialId": "VIAL-100012",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-09-01",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-06",
+      "StoragePosition": "H7",
+      "CellCountAtFreeze": 3304518,
+      "ViabilityPctAtFreeze": 88.9,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100013,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025002",
+      "CellLineName": "HEK293-C15",
+      "VialId": "VIAL-100013",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-08-07",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-14",
+      "StoragePosition": "F7",
+      "CellCountAtFreeze": 1967841,
+      "ViabilityPctAtFreeze": 87.1,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100014,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025002",
+      "CellLineName": "HEK293-C15",
+      "VialId": "VIAL-100014",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-02-17",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-01",
+      "StoragePosition": "H3",
+      "CellCountAtFreeze": 2102039,
+      "ViabilityPctAtFreeze": 88.9,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100015,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025002",
+      "CellLineName": "HEK293-C15",
+      "VialId": "VIAL-100015",
+      "PassageAtFreeze": 9,
+      "FreezeDate": "2025-04-27",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-05",
+      "StoragePosition": "A8",
+      "CellCountAtFreeze": 4772914,
+      "ViabilityPctAtFreeze": 97.2,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100016,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025002",
+      "CellLineName": "HEK293-C15",
+      "VialId": "VIAL-100016",
+      "PassageAtFreeze": 9,
+      "FreezeDate": "2025-08-02",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-13",
+      "StoragePosition": "G2",
+      "CellCountAtFreeze": 3019653,
+      "ViabilityPctAtFreeze": 93.9,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100017,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025003",
+      "CellLineName": "U2OS-C15",
+      "VialId": "VIAL-100017",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-01-27",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-04",
+      "StoragePosition": "F1",
+      "CellCountAtFreeze": 1429411,
+      "ViabilityPctAtFreeze": 85.0,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100018,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025003",
+      "CellLineName": "U2OS-C15",
+      "VialId": "VIAL-100018",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-05-27",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-03",
+      "StoragePosition": "D7",
+      "CellCountAtFreeze": 1623065,
+      "ViabilityPctAtFreeze": 93.9,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100019,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025003",
+      "CellLineName": "U2OS-C15",
+      "VialId": "VIAL-100019",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-06-13",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-04",
+      "StoragePosition": "H8",
+      "CellCountAtFreeze": 3014923,
+      "ViabilityPctAtFreeze": 91.8,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100020,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025004",
+      "CellLineName": "U2OS-C17",
+      "VialId": "VIAL-100020",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-02-05",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-16",
+      "StoragePosition": "C9",
+      "CellCountAtFreeze": 1096870,
+      "ViabilityPctAtFreeze": 87.9,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100021,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025004",
+      "CellLineName": "U2OS-C17",
+      "VialId": "VIAL-100021",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-04-12",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-17",
+      "StoragePosition": "E2",
+      "CellCountAtFreeze": 3920060,
+      "ViabilityPctAtFreeze": 96.8,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100022,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025004",
+      "CellLineName": "U2OS-C17",
+      "VialId": "VIAL-100022",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-04-13",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-08",
+      "StoragePosition": "F4",
+      "CellCountAtFreeze": 3572065,
+      "ViabilityPctAtFreeze": 96.4,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100023,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "VialId": "VIAL-100023",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-03-12",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-07",
+      "StoragePosition": "H6",
+      "CellCountAtFreeze": 4066052,
+      "ViabilityPctAtFreeze": 85.4,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100024,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "VialId": "VIAL-100024",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-07-31",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-07",
+      "StoragePosition": "F8",
+      "CellCountAtFreeze": 4391370,
+      "ViabilityPctAtFreeze": 98.1,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100025,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "VialId": "VIAL-100025",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-09-11",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-04",
+      "StoragePosition": "D8",
+      "CellCountAtFreeze": 1825045,
+      "ViabilityPctAtFreeze": 89.7,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100026,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "VialId": "VIAL-100026",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-06-18",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-16",
+      "StoragePosition": "F2",
+      "CellCountAtFreeze": 4500770,
+      "ViabilityPctAtFreeze": 94.2,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100027,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "VialId": "VIAL-100027",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-07-29",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-06",
+      "StoragePosition": "G6",
+      "CellCountAtFreeze": 1363855,
+      "ViabilityPctAtFreeze": 96.2,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100028,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "VialId": "VIAL-100028",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-04-21",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-06",
+      "StoragePosition": "C3",
+      "CellCountAtFreeze": 1115548,
+      "ViabilityPctAtFreeze": 87.1,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100029,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "VialId": "VIAL-100029",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-08-04",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-12",
+      "StoragePosition": "C9",
+      "CellCountAtFreeze": 3299676,
+      "ViabilityPctAtFreeze": 86.8,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100030,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "VialId": "VIAL-100030",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-08-02",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-17",
+      "StoragePosition": "C7",
+      "CellCountAtFreeze": 4656354,
+      "ViabilityPctAtFreeze": 87.7,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100031,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025006",
+      "CellLineName": "MCF-7-C2",
+      "VialId": "VIAL-100031",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-03-15",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-19",
+      "StoragePosition": "F5",
+      "CellCountAtFreeze": 3283180,
+      "ViabilityPctAtFreeze": 90.9,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100032,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025006",
+      "CellLineName": "MCF-7-C2",
+      "VialId": "VIAL-100032",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-01-25",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-15",
+      "StoragePosition": "G9",
+      "CellCountAtFreeze": 1548460,
+      "ViabilityPctAtFreeze": 92.4,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100033,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "VialId": "VIAL-100033",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-01-14",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-20",
+      "StoragePosition": "A3",
+      "CellCountAtFreeze": 1722874,
+      "ViabilityPctAtFreeze": 87.0,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100034,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "VialId": "VIAL-100034",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-07-14",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-11",
+      "StoragePosition": "H2",
+      "CellCountAtFreeze": 4704525,
+      "ViabilityPctAtFreeze": 92.8,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100035,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "VialId": "VIAL-100035",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-02-27",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-17",
+      "StoragePosition": "H9",
+      "CellCountAtFreeze": 1116877,
+      "ViabilityPctAtFreeze": 95.6,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100036,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "VialId": "VIAL-100036",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-05-03",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-09",
+      "StoragePosition": "H9",
+      "CellCountAtFreeze": 3236761,
+      "ViabilityPctAtFreeze": 96.3,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100037,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "VialId": "VIAL-100037",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-09-08",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-18",
+      "StoragePosition": "D8",
+      "CellCountAtFreeze": 1575183,
+      "ViabilityPctAtFreeze": 90.8,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100038,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "VialId": "VIAL-100038",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-05-03",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-14",
+      "StoragePosition": "B4",
+      "CellCountAtFreeze": 3807969,
+      "ViabilityPctAtFreeze": 89.2,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100039,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "VialId": "VIAL-100039",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-02-18",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-05",
+      "StoragePosition": "E3",
+      "CellCountAtFreeze": 2961826,
+      "ViabilityPctAtFreeze": 88.1,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100040,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "VialId": "VIAL-100040",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-04-21",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-08",
+      "StoragePosition": "C7",
+      "CellCountAtFreeze": 3162604,
+      "ViabilityPctAtFreeze": 90.7,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100041,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "VialId": "VIAL-100041",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-03-01",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-12",
+      "StoragePosition": "A6",
+      "CellCountAtFreeze": 3323855,
+      "ViabilityPctAtFreeze": 91.4,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100042,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "VialId": "VIAL-100042",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-01-14",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-17",
+      "StoragePosition": "B2",
+      "CellCountAtFreeze": 4852670,
+      "ViabilityPctAtFreeze": 96.0,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100043,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "VialId": "VIAL-100043",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-01-31",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-06",
+      "StoragePosition": "E3",
+      "CellCountAtFreeze": 4438395,
+      "ViabilityPctAtFreeze": 90.9,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100044,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "VialId": "VIAL-100044",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-08-07",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-18",
+      "StoragePosition": "H6",
+      "CellCountAtFreeze": 1375231,
+      "ViabilityPctAtFreeze": 88.9,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100045,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "VialId": "VIAL-100045",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-02-25",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-01",
+      "StoragePosition": "B5",
+      "CellCountAtFreeze": 1351241,
+      "ViabilityPctAtFreeze": 93.5,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100046,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "VialId": "VIAL-100046",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-01-27",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-01",
+      "StoragePosition": "F9",
+      "CellCountAtFreeze": 2752213,
+      "ViabilityPctAtFreeze": 98.0,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100047,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025009",
+      "CellLineName": "CHO-K1-C16",
+      "VialId": "VIAL-100047",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-02-12",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-04",
+      "StoragePosition": "C5",
+      "CellCountAtFreeze": 1211307,
+      "ViabilityPctAtFreeze": 87.5,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100048,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025009",
+      "CellLineName": "CHO-K1-C16",
+      "VialId": "VIAL-100048",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-06-19",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-10",
+      "StoragePosition": "H9",
+      "CellCountAtFreeze": 3819231,
+      "ViabilityPctAtFreeze": 87.5,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100049,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025009",
+      "CellLineName": "CHO-K1-C16",
+      "VialId": "VIAL-100049",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-08-03",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-01",
+      "StoragePosition": "A9",
+      "CellCountAtFreeze": 3311267,
+      "ViabilityPctAtFreeze": 98.7,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100050,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025009",
+      "CellLineName": "CHO-K1-C16",
+      "VialId": "VIAL-100050",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-05-11",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-14",
+      "StoragePosition": "H9",
+      "CellCountAtFreeze": 4500624,
+      "ViabilityPctAtFreeze": 97.4,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100051,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025009",
+      "CellLineName": "CHO-K1-C16",
+      "VialId": "VIAL-100051",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-03-29",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-11",
+      "StoragePosition": "D3",
+      "CellCountAtFreeze": 2697425,
+      "ViabilityPctAtFreeze": 98.9,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100052,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025009",
+      "CellLineName": "CHO-K1-C16",
+      "VialId": "VIAL-100052",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-08-12",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-09",
+      "StoragePosition": "G3",
+      "CellCountAtFreeze": 1232369,
+      "ViabilityPctAtFreeze": 86.2,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100053,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "VialId": "VIAL-100053",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-05-19",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-10",
+      "StoragePosition": "A8",
+      "CellCountAtFreeze": 1777422,
+      "ViabilityPctAtFreeze": 87.2,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100054,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "VialId": "VIAL-100054",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-01-10",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-18",
+      "StoragePosition": "F4",
+      "CellCountAtFreeze": 1144480,
+      "ViabilityPctAtFreeze": 98.5,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100055,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "VialId": "VIAL-100055",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-03-06",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-11",
+      "StoragePosition": "G2",
+      "CellCountAtFreeze": 2990799,
+      "ViabilityPctAtFreeze": 88.9,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100056,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "VialId": "VIAL-100056",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-03-02",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-03",
+      "StoragePosition": "E2",
+      "CellCountAtFreeze": 1603414,
+      "ViabilityPctAtFreeze": 90.6,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100057,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "VialId": "VIAL-100057",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-04-20",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-08",
+      "StoragePosition": "B9",
+      "CellCountAtFreeze": 4578779,
+      "ViabilityPctAtFreeze": 95.5,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100058,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "VialId": "VIAL-100058",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-08-26",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-11",
+      "StoragePosition": "H3",
+      "CellCountAtFreeze": 2191922,
+      "ViabilityPctAtFreeze": 95.1,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100059,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "VialId": "VIAL-100059",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-02-16",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-17",
+      "StoragePosition": "C9",
+      "CellCountAtFreeze": 4157753,
+      "ViabilityPctAtFreeze": 92.1,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100060,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "VialId": "VIAL-100060",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-08-09",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-03",
+      "StoragePosition": "A1",
+      "CellCountAtFreeze": 1558233,
+      "ViabilityPctAtFreeze": 93.9,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100061,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025011",
+      "CellLineName": "K562-C31",
+      "VialId": "VIAL-100061",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-08-11",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-01",
+      "StoragePosition": "D8",
+      "CellCountAtFreeze": 2106427,
+      "ViabilityPctAtFreeze": 85.0,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100062,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025011",
+      "CellLineName": "K562-C31",
+      "VialId": "VIAL-100062",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-07-20",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-17",
+      "StoragePosition": "B8",
+      "CellCountAtFreeze": 2057776,
+      "ViabilityPctAtFreeze": 96.3,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100063,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025011",
+      "CellLineName": "K562-C31",
+      "VialId": "VIAL-100063",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-03-11",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-15",
+      "StoragePosition": "H7",
+      "CellCountAtFreeze": 1321870,
+      "ViabilityPctAtFreeze": 91.7,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100064,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025011",
+      "CellLineName": "K562-C31",
+      "VialId": "VIAL-100064",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-03-24",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-03",
+      "StoragePosition": "C6",
+      "CellCountAtFreeze": 2065102,
+      "ViabilityPctAtFreeze": 94.1,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100065,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025011",
+      "CellLineName": "K562-C31",
+      "VialId": "VIAL-100065",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-03-28",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-01",
+      "StoragePosition": "H1",
+      "CellCountAtFreeze": 3037584,
+      "ViabilityPctAtFreeze": 88.8,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100066,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025012",
+      "CellLineName": "COS-7-C21",
+      "VialId": "VIAL-100066",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-07-06",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-10",
+      "StoragePosition": "E8",
+      "CellCountAtFreeze": 2954116,
+      "ViabilityPctAtFreeze": 91.5,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100067,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025012",
+      "CellLineName": "COS-7-C21",
+      "VialId": "VIAL-100067",
+      "PassageAtFreeze": 9,
+      "FreezeDate": "2025-08-26",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-03",
+      "StoragePosition": "H1",
+      "CellCountAtFreeze": 2214623,
+      "ViabilityPctAtFreeze": 91.4,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100068,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025013",
+      "CellLineName": "U2OS-C20",
+      "VialId": "VIAL-100068",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-03-19",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-03",
+      "StoragePosition": "B3",
+      "CellCountAtFreeze": 4135184,
+      "ViabilityPctAtFreeze": 92.3,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100069,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025013",
+      "CellLineName": "U2OS-C20",
+      "VialId": "VIAL-100069",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-02-12",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-04",
+      "StoragePosition": "F4",
+      "CellCountAtFreeze": 3088293,
+      "ViabilityPctAtFreeze": 97.6,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100070,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025013",
+      "CellLineName": "U2OS-C20",
+      "VialId": "VIAL-100070",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-04-20",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-16",
+      "StoragePosition": "H7",
+      "CellCountAtFreeze": 2266474,
+      "ViabilityPctAtFreeze": 95.2,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100071,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025013",
+      "CellLineName": "U2OS-C20",
+      "VialId": "VIAL-100071",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-04-08",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-11",
+      "StoragePosition": "A6",
+      "CellCountAtFreeze": 4148806,
+      "ViabilityPctAtFreeze": 89.7,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100072,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025013",
+      "CellLineName": "U2OS-C20",
+      "VialId": "VIAL-100072",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-02-09",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-10",
+      "StoragePosition": "E6",
+      "CellCountAtFreeze": 1272534,
+      "ViabilityPctAtFreeze": 90.5,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100073,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025014",
+      "CellLineName": "CHO-K1-C28",
+      "VialId": "VIAL-100073",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-04-12",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-02",
+      "StoragePosition": "E2",
+      "CellCountAtFreeze": 1216499,
+      "ViabilityPctAtFreeze": 96.7,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100074,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025014",
+      "CellLineName": "CHO-K1-C28",
+      "VialId": "VIAL-100074",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-06-21",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-09",
+      "StoragePosition": "G9",
+      "CellCountAtFreeze": 2323728,
+      "ViabilityPctAtFreeze": 87.7,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100075,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "VialId": "VIAL-100075",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-09-11",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-18",
+      "StoragePosition": "D2",
+      "CellCountAtFreeze": 1207517,
+      "ViabilityPctAtFreeze": 98.1,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100076,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "VialId": "VIAL-100076",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-05-05",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-16",
+      "StoragePosition": "A9",
+      "CellCountAtFreeze": 1533982,
+      "ViabilityPctAtFreeze": 87.4,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100077,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "VialId": "VIAL-100077",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-04-07",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-09",
+      "StoragePosition": "G4",
+      "CellCountAtFreeze": 2261798,
+      "ViabilityPctAtFreeze": 91.8,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100078,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "VialId": "VIAL-100078",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-04-20",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-03",
+      "StoragePosition": "D9",
+      "CellCountAtFreeze": 4799871,
+      "ViabilityPctAtFreeze": 96.4,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100079,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "VialId": "VIAL-100079",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-03-07",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-14",
+      "StoragePosition": "C9",
+      "CellCountAtFreeze": 1807013,
+      "ViabilityPctAtFreeze": 88.4,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100080,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "VialId": "VIAL-100080",
+      "PassageAtFreeze": 9,
+      "FreezeDate": "2025-04-07",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-08",
+      "StoragePosition": "F5",
+      "CellCountAtFreeze": 4394695,
+      "ViabilityPctAtFreeze": 93.0,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100081,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "VialId": "VIAL-100081",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-07-20",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-14",
+      "StoragePosition": "D7",
+      "CellCountAtFreeze": 2133468,
+      "ViabilityPctAtFreeze": 89.7,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100082,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "VialId": "VIAL-100082",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-05-17",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-05",
+      "StoragePosition": "D2",
+      "CellCountAtFreeze": 2136743,
+      "ViabilityPctAtFreeze": 97.6,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100083,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025016",
+      "CellLineName": "COS-7-C7",
+      "VialId": "VIAL-100083",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-06-24",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-01",
+      "StoragePosition": "C1",
+      "CellCountAtFreeze": 2783417,
+      "ViabilityPctAtFreeze": 94.9,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100084,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025016",
+      "CellLineName": "COS-7-C7",
+      "VialId": "VIAL-100084",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-09-14",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-03",
+      "StoragePosition": "G9",
+      "CellCountAtFreeze": 4588070,
+      "ViabilityPctAtFreeze": 91.6,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100085,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025016",
+      "CellLineName": "COS-7-C7",
+      "VialId": "VIAL-100085",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-03-14",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-05",
+      "StoragePosition": "C9",
+      "CellCountAtFreeze": 3860830,
+      "ViabilityPctAtFreeze": 86.5,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100086,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025016",
+      "CellLineName": "COS-7-C7",
+      "VialId": "VIAL-100086",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-07-08",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-18",
+      "StoragePosition": "A1",
+      "CellCountAtFreeze": 4281198,
+      "ViabilityPctAtFreeze": 86.8,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100087,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025016",
+      "CellLineName": "COS-7-C7",
+      "VialId": "VIAL-100087",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-09-02",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-05",
+      "StoragePosition": "E9",
+      "CellCountAtFreeze": 3668798,
+      "ViabilityPctAtFreeze": 91.1,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100088,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025017",
+      "CellLineName": "NIH-3T3-C12",
+      "VialId": "VIAL-100088",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-01-28",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-13",
+      "StoragePosition": "E4",
+      "CellCountAtFreeze": 4315543,
+      "ViabilityPctAtFreeze": 93.4,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100089,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025017",
+      "CellLineName": "NIH-3T3-C12",
+      "VialId": "VIAL-100089",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-05-27",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-11",
+      "StoragePosition": "D8",
+      "CellCountAtFreeze": 3207368,
+      "ViabilityPctAtFreeze": 88.3,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100090,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025018",
+      "CellLineName": "CHO-K1-C22",
+      "VialId": "VIAL-100090",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-09-12",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-02",
+      "StoragePosition": "A4",
+      "CellCountAtFreeze": 3090064,
+      "ViabilityPctAtFreeze": 97.4,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100091,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025018",
+      "CellLineName": "CHO-K1-C22",
+      "VialId": "VIAL-100091",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-04-27",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-14",
+      "StoragePosition": "F4",
+      "CellCountAtFreeze": 3067554,
+      "ViabilityPctAtFreeze": 85.5,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100092,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "VialId": "VIAL-100092",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-04-27",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-07",
+      "StoragePosition": "A5",
+      "CellCountAtFreeze": 4100132,
+      "ViabilityPctAtFreeze": 96.8,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100093,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "VialId": "VIAL-100093",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-03-03",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-07",
+      "StoragePosition": "D8",
+      "CellCountAtFreeze": 1928798,
+      "ViabilityPctAtFreeze": 88.7,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100094,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "VialId": "VIAL-100094",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-02-06",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-08",
+      "StoragePosition": "H7",
+      "CellCountAtFreeze": 4818477,
+      "ViabilityPctAtFreeze": 94.3,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100095,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "VialId": "VIAL-100095",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-02-16",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-07",
+      "StoragePosition": "A3",
+      "CellCountAtFreeze": 2742250,
+      "ViabilityPctAtFreeze": 85.7,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100096,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "VialId": "VIAL-100096",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-02-26",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-04",
+      "StoragePosition": "B3",
+      "CellCountAtFreeze": 2380944,
+      "ViabilityPctAtFreeze": 87.7,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100097,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "VialId": "VIAL-100097",
+      "PassageAtFreeze": 9,
+      "FreezeDate": "2025-09-06",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-02",
+      "StoragePosition": "E7",
+      "CellCountAtFreeze": 4519553,
+      "ViabilityPctAtFreeze": 90.2,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100098,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "VialId": "VIAL-100098",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-05-03",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-03",
+      "StoragePosition": "E2",
+      "CellCountAtFreeze": 2474158,
+      "ViabilityPctAtFreeze": 90.9,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100099,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025020",
+      "CellLineName": "Jurkat-C31",
+      "VialId": "VIAL-100099",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-09-13",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-12",
+      "StoragePosition": "E7",
+      "CellCountAtFreeze": 1368093,
+      "ViabilityPctAtFreeze": 85.7,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100100,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025020",
+      "CellLineName": "Jurkat-C31",
+      "VialId": "VIAL-100100",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-03-01",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-07",
+      "StoragePosition": "F6",
+      "CellCountAtFreeze": 4092543,
+      "ViabilityPctAtFreeze": 97.6,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100101,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025020",
+      "CellLineName": "Jurkat-C31",
+      "VialId": "VIAL-100101",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-06-20",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-02",
+      "StoragePosition": "G1",
+      "CellCountAtFreeze": 2946369,
+      "ViabilityPctAtFreeze": 85.9,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100102,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025020",
+      "CellLineName": "Jurkat-C31",
+      "VialId": "VIAL-100102",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-03-16",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-20",
+      "StoragePosition": "F6",
+      "CellCountAtFreeze": 2142170,
+      "ViabilityPctAtFreeze": 89.7,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100103,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025020",
+      "CellLineName": "Jurkat-C31",
+      "VialId": "VIAL-100103",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-01-21",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-09",
+      "StoragePosition": "E1",
+      "CellCountAtFreeze": 4026492,
+      "ViabilityPctAtFreeze": 95.6,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100104,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025020",
+      "CellLineName": "Jurkat-C31",
+      "VialId": "VIAL-100104",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-09-09",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-04",
+      "StoragePosition": "H8",
+      "CellCountAtFreeze": 4256275,
+      "ViabilityPctAtFreeze": 90.4,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100105,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025021",
+      "CellLineName": "Jurkat-C8",
+      "VialId": "VIAL-100105",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-08-06",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-06",
+      "StoragePosition": "A5",
+      "CellCountAtFreeze": 4450885,
+      "ViabilityPctAtFreeze": 94.7,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100106,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025021",
+      "CellLineName": "Jurkat-C8",
+      "VialId": "VIAL-100106",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-06-14",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-15",
+      "StoragePosition": "F2",
+      "CellCountAtFreeze": 3147000,
+      "ViabilityPctAtFreeze": 87.8,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100107,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025021",
+      "CellLineName": "Jurkat-C8",
+      "VialId": "VIAL-100107",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-03-14",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-16",
+      "StoragePosition": "F3",
+      "CellCountAtFreeze": 2789098,
+      "ViabilityPctAtFreeze": 97.4,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100108,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025021",
+      "CellLineName": "Jurkat-C8",
+      "VialId": "VIAL-100108",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-03-18",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-04",
+      "StoragePosition": "G8",
+      "CellCountAtFreeze": 3976996,
+      "ViabilityPctAtFreeze": 98.6,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100109,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025021",
+      "CellLineName": "Jurkat-C8",
+      "VialId": "VIAL-100109",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-03-10",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-20",
+      "StoragePosition": "D9",
+      "CellCountAtFreeze": 4552521,
+      "ViabilityPctAtFreeze": 95.8,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100110,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "VialId": "VIAL-100110",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-08-13",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-19",
+      "StoragePosition": "E6",
+      "CellCountAtFreeze": 2065590,
+      "ViabilityPctAtFreeze": 95.3,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100111,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "VialId": "VIAL-100111",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-05-02",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-08",
+      "StoragePosition": "C5",
+      "CellCountAtFreeze": 4708468,
+      "ViabilityPctAtFreeze": 97.7,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100112,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "VialId": "VIAL-100112",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-04-03",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-08",
+      "StoragePosition": "D2",
+      "CellCountAtFreeze": 3740250,
+      "ViabilityPctAtFreeze": 91.5,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100113,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "VialId": "VIAL-100113",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-02-05",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-15",
+      "StoragePosition": "F1",
+      "CellCountAtFreeze": 4677910,
+      "ViabilityPctAtFreeze": 89.1,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100114,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "VialId": "VIAL-100114",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-01-22",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-03",
+      "StoragePosition": "F9",
+      "CellCountAtFreeze": 4632801,
+      "ViabilityPctAtFreeze": 87.5,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100115,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "VialId": "VIAL-100115",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-03-17",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-04",
+      "StoragePosition": "F4",
+      "CellCountAtFreeze": 1157095,
+      "ViabilityPctAtFreeze": 90.2,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100116,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "VialId": "VIAL-100116",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-01-21",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-20",
+      "StoragePosition": "D1",
+      "CellCountAtFreeze": 4434434,
+      "ViabilityPctAtFreeze": 89.6,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100117,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "VialId": "VIAL-100117",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-04-15",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-03",
+      "StoragePosition": "D1",
+      "CellCountAtFreeze": 4335650,
+      "ViabilityPctAtFreeze": 91.9,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100118,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025023",
+      "CellLineName": "MCF-7-C1",
+      "VialId": "VIAL-100118",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-04-24",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-18",
+      "StoragePosition": "B3",
+      "CellCountAtFreeze": 2668377,
+      "ViabilityPctAtFreeze": 94.7,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100119,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025023",
+      "CellLineName": "MCF-7-C1",
+      "VialId": "VIAL-100119",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-03-23",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-02",
+      "StoragePosition": "E6",
+      "CellCountAtFreeze": 2736777,
+      "ViabilityPctAtFreeze": 90.8,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100120,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "VialId": "VIAL-100120",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-03-01",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-07",
+      "StoragePosition": "A7",
+      "CellCountAtFreeze": 4781712,
+      "ViabilityPctAtFreeze": 87.2,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100121,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "VialId": "VIAL-100121",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-08-08",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-15",
+      "StoragePosition": "C3",
+      "CellCountAtFreeze": 1062219,
+      "ViabilityPctAtFreeze": 85.7,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100122,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "VialId": "VIAL-100122",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-06-23",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-19",
+      "StoragePosition": "F9",
+      "CellCountAtFreeze": 1720101,
+      "ViabilityPctAtFreeze": 87.0,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100123,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "VialId": "VIAL-100123",
+      "PassageAtFreeze": 9,
+      "FreezeDate": "2025-02-20",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-04",
+      "StoragePosition": "G8",
+      "CellCountAtFreeze": 4160642,
+      "ViabilityPctAtFreeze": 96.3,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100124,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "VialId": "VIAL-100124",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-03-28",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-11",
+      "StoragePosition": "A7",
+      "CellCountAtFreeze": 1361945,
+      "ViabilityPctAtFreeze": 97.7,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100125,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "VialId": "VIAL-100125",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-07-05",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-20",
+      "StoragePosition": "G4",
+      "CellCountAtFreeze": 4477865,
+      "ViabilityPctAtFreeze": 91.6,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100126,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "VialId": "VIAL-100126",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-03-06",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-13",
+      "StoragePosition": "F2",
+      "CellCountAtFreeze": 1626910,
+      "ViabilityPctAtFreeze": 88.5,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100127,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "VialId": "VIAL-100127",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-08-27",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-11",
+      "StoragePosition": "B7",
+      "CellCountAtFreeze": 3514568,
+      "ViabilityPctAtFreeze": 91.4,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100128,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "VialId": "VIAL-100128",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-07-28",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-10",
+      "StoragePosition": "D7",
+      "CellCountAtFreeze": 2632473,
+      "ViabilityPctAtFreeze": 94.2,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100129,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "VialId": "VIAL-100129",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-05-18",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-01",
+      "StoragePosition": "H8",
+      "CellCountAtFreeze": 1986713,
+      "ViabilityPctAtFreeze": 91.3,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100130,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "VialId": "VIAL-100130",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-07-28",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-16",
+      "StoragePosition": "G2",
+      "CellCountAtFreeze": 1281524,
+      "ViabilityPctAtFreeze": 86.8,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100131,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "VialId": "VIAL-100131",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-04-13",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-02",
+      "StoragePosition": "C2",
+      "CellCountAtFreeze": 4867676,
+      "ViabilityPctAtFreeze": 95.3,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100132,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "VialId": "VIAL-100132",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-05-20",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-05",
+      "StoragePosition": "A2",
+      "CellCountAtFreeze": 3575821,
+      "ViabilityPctAtFreeze": 95.2,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100133,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "VialId": "VIAL-100133",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-02-28",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-06",
+      "StoragePosition": "D2",
+      "CellCountAtFreeze": 4494006,
+      "ViabilityPctAtFreeze": 89.9,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100134,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "VialId": "VIAL-100134",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-02-19",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-15",
+      "StoragePosition": "C5",
+      "CellCountAtFreeze": 3106454,
+      "ViabilityPctAtFreeze": 98.5,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100135,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025026",
+      "CellLineName": "HEK293-C20",
+      "VialId": "VIAL-100135",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-06-10",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-11",
+      "StoragePosition": "F1",
+      "CellCountAtFreeze": 1834423,
+      "ViabilityPctAtFreeze": 87.5,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100136,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025026",
+      "CellLineName": "HEK293-C20",
+      "VialId": "VIAL-100136",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-06-21",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-13",
+      "StoragePosition": "C5",
+      "CellCountAtFreeze": 1482675,
+      "ViabilityPctAtFreeze": 95.8,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100137,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025026",
+      "CellLineName": "HEK293-C20",
+      "VialId": "VIAL-100137",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-06-21",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-18",
+      "StoragePosition": "B5",
+      "CellCountAtFreeze": 3246893,
+      "ViabilityPctAtFreeze": 93.8,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100138,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "VialId": "VIAL-100138",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-08-02",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-12",
+      "StoragePosition": "C6",
+      "CellCountAtFreeze": 2387596,
+      "ViabilityPctAtFreeze": 95.7,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100139,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "VialId": "VIAL-100139",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-03-09",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-10",
+      "StoragePosition": "E5",
+      "CellCountAtFreeze": 3681157,
+      "ViabilityPctAtFreeze": 98.5,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100140,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "VialId": "VIAL-100140",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-09-04",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-02",
+      "StoragePosition": "D3",
+      "CellCountAtFreeze": 2220423,
+      "ViabilityPctAtFreeze": 93.6,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100141,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "VialId": "VIAL-100141",
+      "PassageAtFreeze": 9,
+      "FreezeDate": "2025-04-26",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-05",
+      "StoragePosition": "H4",
+      "CellCountAtFreeze": 3569092,
+      "ViabilityPctAtFreeze": 94.1,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100142,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "VialId": "VIAL-100142",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-01-23",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-10",
+      "StoragePosition": "B9",
+      "CellCountAtFreeze": 2498002,
+      "ViabilityPctAtFreeze": 92.5,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100143,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "VialId": "VIAL-100143",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-06-08",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-07",
+      "StoragePosition": "F8",
+      "CellCountAtFreeze": 1665314,
+      "ViabilityPctAtFreeze": 86.9,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100144,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "VialId": "VIAL-100144",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-07-10",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-03",
+      "StoragePosition": "C5",
+      "CellCountAtFreeze": 2685912,
+      "ViabilityPctAtFreeze": 96.4,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100145,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025028",
+      "CellLineName": "K562-C40",
+      "VialId": "VIAL-100145",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-06-24",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-20",
+      "StoragePosition": "H9",
+      "CellCountAtFreeze": 4076615,
+      "ViabilityPctAtFreeze": 91.9,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100146,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025028",
+      "CellLineName": "K562-C40",
+      "VialId": "VIAL-100146",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-08-29",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-18",
+      "StoragePosition": "A7",
+      "CellCountAtFreeze": 1778705,
+      "ViabilityPctAtFreeze": 88.3,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100147,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100147",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-02-05",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-05",
+      "StoragePosition": "G4",
+      "CellCountAtFreeze": 3173731,
+      "ViabilityPctAtFreeze": 93.5,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100148,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100148",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-06-24",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-17",
+      "StoragePosition": "E2",
+      "CellCountAtFreeze": 2259407,
+      "ViabilityPctAtFreeze": 93.8,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100149,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100149",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-07-29",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-13",
+      "StoragePosition": "G8",
+      "CellCountAtFreeze": 1337551,
+      "ViabilityPctAtFreeze": 95.4,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100150,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100150",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-02-23",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-08",
+      "StoragePosition": "A2",
+      "CellCountAtFreeze": 2407256,
+      "ViabilityPctAtFreeze": 97.5,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100151,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100151",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-09-08",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-09",
+      "StoragePosition": "G9",
+      "CellCountAtFreeze": 2112733,
+      "ViabilityPctAtFreeze": 89.1,
+      "FrozenBy": "J. Chen",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100152,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100152",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-01-31",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-06",
+      "StoragePosition": "E4",
+      "CellCountAtFreeze": 4530441,
+      "ViabilityPctAtFreeze": 95.4,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100153,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100153",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-07-20",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-13",
+      "StoragePosition": "F4",
+      "CellCountAtFreeze": 2591524,
+      "ViabilityPctAtFreeze": 97.7,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100154,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100154",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-09-02",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-16",
+      "StoragePosition": "A1",
+      "CellCountAtFreeze": 2833808,
+      "ViabilityPctAtFreeze": 98.4,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100155,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "VialId": "VIAL-100155",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-08-24",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-20",
+      "StoragePosition": "B3",
+      "CellCountAtFreeze": 1606475,
+      "ViabilityPctAtFreeze": 85.5,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100156,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "VialId": "VIAL-100156",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-02-06",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-05",
+      "StoragePosition": "A1",
+      "CellCountAtFreeze": 1174690,
+      "ViabilityPctAtFreeze": 86.9,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100157,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "VialId": "VIAL-100157",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-06-21",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-02",
+      "StoragePosition": "B6",
+      "CellCountAtFreeze": 1835975,
+      "ViabilityPctAtFreeze": 96.4,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100158,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "VialId": "VIAL-100158",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-08-26",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-04",
+      "StoragePosition": "D4",
+      "CellCountAtFreeze": 1852116,
+      "ViabilityPctAtFreeze": 86.6,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100159,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "VialId": "VIAL-100159",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-09-10",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-10",
+      "StoragePosition": "H2",
+      "CellCountAtFreeze": 1556390,
+      "ViabilityPctAtFreeze": 86.4,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100160,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "VialId": "VIAL-100160",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-03-03",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-14",
+      "StoragePosition": "E1",
+      "CellCountAtFreeze": 2471784,
+      "ViabilityPctAtFreeze": 88.6,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100161,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025031",
+      "CellLineName": "MCF-7-C22",
+      "VialId": "VIAL-100161",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-07-12",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-20",
+      "StoragePosition": "H5",
+      "CellCountAtFreeze": 3593236,
+      "ViabilityPctAtFreeze": 95.4,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100162,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025031",
+      "CellLineName": "MCF-7-C22",
+      "VialId": "VIAL-100162",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-01-17",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-12",
+      "StoragePosition": "H1",
+      "CellCountAtFreeze": 3256034,
+      "ViabilityPctAtFreeze": 92.9,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100163,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100163",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-08-09",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-06",
+      "StoragePosition": "G1",
+      "CellCountAtFreeze": 3195951,
+      "ViabilityPctAtFreeze": 87.8,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100164,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100164",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-01-11",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-16",
+      "StoragePosition": "C8",
+      "CellCountAtFreeze": 3485355,
+      "ViabilityPctAtFreeze": 89.9,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100165,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100165",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-03-17",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-07",
+      "StoragePosition": "D8",
+      "CellCountAtFreeze": 1695377,
+      "ViabilityPctAtFreeze": 86.5,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100166,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100166",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-07-25",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-11",
+      "StoragePosition": "F2",
+      "CellCountAtFreeze": 2683050,
+      "ViabilityPctAtFreeze": 98.0,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100167,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100167",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-02-01",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-12",
+      "StoragePosition": "D5",
+      "CellCountAtFreeze": 2103921,
+      "ViabilityPctAtFreeze": 91.0,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100168,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100168",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-05-18",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-15",
+      "StoragePosition": "C9",
+      "CellCountAtFreeze": 3491787,
+      "ViabilityPctAtFreeze": 95.6,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100169,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100169",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-06-24",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-17",
+      "StoragePosition": "C8",
+      "CellCountAtFreeze": 3777049,
+      "ViabilityPctAtFreeze": 92.8,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100170,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "VialId": "VIAL-100170",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-02-22",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-19",
+      "StoragePosition": "D3",
+      "CellCountAtFreeze": 2401122,
+      "ViabilityPctAtFreeze": 91.5,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100171,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025033",
+      "CellLineName": "NIH-3T3-C30",
+      "VialId": "VIAL-100171",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-05-19",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-20",
+      "StoragePosition": "C3",
+      "CellCountAtFreeze": 2038430,
+      "ViabilityPctAtFreeze": 95.1,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100172,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025033",
+      "CellLineName": "NIH-3T3-C30",
+      "VialId": "VIAL-100172",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-05-23",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-11",
+      "StoragePosition": "D5",
+      "CellCountAtFreeze": 4056524,
+      "ViabilityPctAtFreeze": 98.9,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100173,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025033",
+      "CellLineName": "NIH-3T3-C30",
+      "VialId": "VIAL-100173",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-09-13",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-13",
+      "StoragePosition": "C3",
+      "CellCountAtFreeze": 4334001,
+      "ViabilityPctAtFreeze": 89.2,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100174,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025034",
+      "CellLineName": "COS-7-C20",
+      "VialId": "VIAL-100174",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-03-21",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-09",
+      "StoragePosition": "D7",
+      "CellCountAtFreeze": 2945806,
+      "ViabilityPctAtFreeze": 85.5,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100175,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025034",
+      "CellLineName": "COS-7-C20",
+      "VialId": "VIAL-100175",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-08-16",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-17",
+      "StoragePosition": "E8",
+      "CellCountAtFreeze": 1092766,
+      "ViabilityPctAtFreeze": 87.0,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100176,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025034",
+      "CellLineName": "COS-7-C20",
+      "VialId": "VIAL-100176",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-07-17",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-14",
+      "StoragePosition": "G4",
+      "CellCountAtFreeze": 3801357,
+      "ViabilityPctAtFreeze": 95.1,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100177,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025034",
+      "CellLineName": "COS-7-C20",
+      "VialId": "VIAL-100177",
+      "PassageAtFreeze": 10,
+      "FreezeDate": "2025-07-08",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-04",
+      "StoragePosition": "H7",
+      "CellCountAtFreeze": 2312877,
+      "ViabilityPctAtFreeze": 88.6,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100178,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025034",
+      "CellLineName": "COS-7-C20",
+      "VialId": "VIAL-100178",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-02-04",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-13",
+      "StoragePosition": "C5",
+      "CellCountAtFreeze": 4562815,
+      "ViabilityPctAtFreeze": 90.9,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100179,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025035",
+      "CellLineName": "U2OS-C29",
+      "VialId": "VIAL-100179",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-06-18",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-11",
+      "StoragePosition": "A7",
+      "CellCountAtFreeze": 4489121,
+      "ViabilityPctAtFreeze": 91.9,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100180,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025035",
+      "CellLineName": "U2OS-C29",
+      "VialId": "VIAL-100180",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-01-19",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-06",
+      "StoragePosition": "D9",
+      "CellCountAtFreeze": 2460488,
+      "ViabilityPctAtFreeze": 86.4,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100181,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025036",
+      "CellLineName": "A549-C8",
+      "VialId": "VIAL-100181",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-05-28",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-17",
+      "StoragePosition": "A6",
+      "CellCountAtFreeze": 3188119,
+      "ViabilityPctAtFreeze": 89.8,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100182,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025036",
+      "CellLineName": "A549-C8",
+      "VialId": "VIAL-100182",
+      "PassageAtFreeze": 8,
+      "FreezeDate": "2025-09-09",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-13",
+      "StoragePosition": "B6",
+      "CellCountAtFreeze": 3674157,
+      "ViabilityPctAtFreeze": 85.8,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100183,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025036",
+      "CellLineName": "A549-C8",
+      "VialId": "VIAL-100183",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-04-17",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-03",
+      "StoragePosition": "G7",
+      "CellCountAtFreeze": 3636391,
+      "ViabilityPctAtFreeze": 94.8,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100184,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025036",
+      "CellLineName": "A549-C8",
+      "VialId": "VIAL-100184",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-06-07",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-10",
+      "StoragePosition": "G9",
+      "CellCountAtFreeze": 1918188,
+      "ViabilityPctAtFreeze": 98.9,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100185,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025036",
+      "CellLineName": "A549-C8",
+      "VialId": "VIAL-100185",
+      "PassageAtFreeze": 4,
+      "FreezeDate": "2025-05-08",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-03",
+      "StoragePosition": "D8",
+      "CellCountAtFreeze": 3693579,
+      "ViabilityPctAtFreeze": 92.9,
+      "FrozenBy": "J. Chen",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100186,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "VialId": "VIAL-100186",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-09-13",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-15",
+      "StoragePosition": "E9",
+      "CellCountAtFreeze": 3724651,
+      "ViabilityPctAtFreeze": 86.8,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100187,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "VialId": "VIAL-100187",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-04-10",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-13",
+      "StoragePosition": "E7",
+      "CellCountAtFreeze": 3847171,
+      "ViabilityPctAtFreeze": 87.6,
+      "FrozenBy": "K. Pande",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100188,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "VialId": "VIAL-100188",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-08-04",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-08",
+      "StoragePosition": "E6",
+      "CellCountAtFreeze": 3011378,
+      "ViabilityPctAtFreeze": 91.8,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100189,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "VialId": "VIAL-100189",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-06-22",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-05",
+      "StoragePosition": "E7",
+      "CellCountAtFreeze": 1239339,
+      "ViabilityPctAtFreeze": 86.2,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100190,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "VialId": "VIAL-100190",
+      "PassageAtFreeze": 6,
+      "FreezeDate": "2025-08-29",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-19",
+      "StoragePosition": "A1",
+      "CellCountAtFreeze": 1879753,
+      "ViabilityPctAtFreeze": 98.3,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100191,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "VialId": "VIAL-100191",
+      "PassageAtFreeze": 5,
+      "FreezeDate": "2025-03-26",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-19",
+      "StoragePosition": "C4",
+      "CellCountAtFreeze": 1778729,
+      "ViabilityPctAtFreeze": 95.9,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100192,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "VialId": "VIAL-100192",
+      "PassageAtFreeze": 3,
+      "FreezeDate": "2025-07-29",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-18",
+      "StoragePosition": "C2",
+      "CellCountAtFreeze": 3803715,
+      "ViabilityPctAtFreeze": 97.6,
+      "FrozenBy": "T. Okafor",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100193,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "VialId": "VIAL-100193",
+      "PassageAtFreeze": 11,
+      "FreezeDate": "2025-07-30",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-16",
+      "StoragePosition": "D9",
+      "CellCountAtFreeze": 1329735,
+      "ViabilityPctAtFreeze": 95.4,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100194,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025038",
+      "CellLineName": "K562-C33",
+      "VialId": "VIAL-100194",
+      "PassageAtFreeze": 2,
+      "FreezeDate": "2025-08-23",
+      "CryoMedium": "95% FBS + 5% DMSO",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-09",
+      "StoragePosition": "G4",
+      "CellCountAtFreeze": 4468915,
+      "ViabilityPctAtFreeze": 87.0,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100195,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025038",
+      "CellLineName": "K562-C33",
+      "VialId": "VIAL-100195",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-06-01",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-05",
+      "StoragePosition": "H4",
+      "CellCountAtFreeze": 3089500,
+      "ViabilityPctAtFreeze": 87.3,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100196,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025038",
+      "CellLineName": "K562-C33",
+      "VialId": "VIAL-100196",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-08-18",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-11",
+      "StoragePosition": "H8",
+      "CellCountAtFreeze": 3790472,
+      "ViabilityPctAtFreeze": 89.2,
+      "FrozenBy": "A. Singh",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100197,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025038",
+      "CellLineName": "K562-C33",
+      "VialId": "VIAL-100197",
+      "PassageAtFreeze": 7,
+      "FreezeDate": "2025-04-15",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-06",
+      "StoragePosition": "F1",
+      "CellCountAtFreeze": 1086233,
+      "ViabilityPctAtFreeze": 93.5,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100198,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025038",
+      "CellLineName": "K562-C33",
+      "VialId": "VIAL-100198",
+      "PassageAtFreeze": 15,
+      "FreezeDate": "2025-07-17",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-01",
+      "StorageBox": "Box-17",
+      "StoragePosition": "H8",
+      "CellCountAtFreeze": 4175808,
+      "ViabilityPctAtFreeze": 97.6,
+      "FrozenBy": "K. Pande",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100199,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025038",
+      "CellLineName": "K562-C33",
+      "VialId": "VIAL-100199",
+      "PassageAtFreeze": 12,
+      "FreezeDate": "2025-03-05",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-11",
+      "StoragePosition": "B6",
+      "CellCountAtFreeze": 2431563,
+      "ViabilityPctAtFreeze": 91.6,
+      "FrozenBy": "T. Okafor",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100200,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025038",
+      "CellLineName": "K562-C33",
+      "VialId": "VIAL-100200",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-05-31",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-14",
+      "StoragePosition": "F7",
+      "CellCountAtFreeze": 2055169,
+      "ViabilityPctAtFreeze": 92.8,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100201,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025039",
+      "CellLineName": "Jurkat-C16",
+      "VialId": "VIAL-100201",
+      "PassageAtFreeze": 14,
+      "FreezeDate": "2025-04-10",
+      "CryoMedium": "CryoStor CS10",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-11",
+      "StoragePosition": "E9",
+      "CellCountAtFreeze": 2446238,
+      "ViabilityPctAtFreeze": 98.6,
+      "FrozenBy": "L. Wu",
+      "Status": "THAWED"
+    }
+  },
+  {
+    "recordId": 100202,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025039",
+      "CellLineName": "Jurkat-C16",
+      "VialId": "VIAL-100202",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-05-16",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-A",
+      "StorageBox": "Box-07",
+      "StoragePosition": "F5",
+      "CellCountAtFreeze": 1535070,
+      "ViabilityPctAtFreeze": 93.2,
+      "FrozenBy": "L. Wu",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100203,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025039",
+      "CellLineName": "Jurkat-C16",
+      "VialId": "VIAL-100203",
+      "PassageAtFreeze": 13,
+      "FreezeDate": "2025-02-01",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "ULT-Freezer-B",
+      "StorageBox": "Box-18",
+      "StoragePosition": "G9",
+      "CellCountAtFreeze": 3407715,
+      "ViabilityPctAtFreeze": 85.7,
+      "FrozenBy": "M. Rodriguez",
+      "Status": "IN_STORAGE"
+    }
+  },
+  {
+    "recordId": 100204,
+    "dataTypeName": "CellLineVial",
+    "fields": {
+      "CellLineRegistryId": "CL-2025039",
+      "CellLineName": "Jurkat-C16",
+      "VialId": "VIAL-100204",
+      "PassageAtFreeze": 1,
+      "FreezeDate": "2025-02-06",
+      "CryoMedium": "90% FBS + 10% DMSO",
+      "StorageLocation": "LN2-Tank-02",
+      "StorageBox": "Box-16",
+      "StoragePosition": "A9",
+      "CellCountAtFreeze": 4816070,
+      "ViabilityPctAtFreeze": 92.6,
+      "FrozenBy": "A. Singh",
+      "Status": "THAWED"
+    }
+  }
+]

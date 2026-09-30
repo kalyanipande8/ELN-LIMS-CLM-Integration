@@ -1,0 +1,11 @@
+{
+  "total_checks": 1922,
+  "passed_checks": 1918,
+  "failed_checks": 4,
+  "integrity_pct": 99.7919,
+  "failures_by_check": {
+    "barcode_checksum_valid": 1,
+    "has_storage_location": 1,
+    "has_performer": 2
+  }
+}

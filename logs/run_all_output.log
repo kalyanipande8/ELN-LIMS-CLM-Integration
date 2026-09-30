@@ -1,0 +1,52 @@
+Generated 40 Benchling cell-line entities, 206 passage entries
+Generated 205 Sapio CellLineVial records, 305 transfer events, 78 QC results
+======================================================================
+STEP 1/4: Generating Benchling-ELN-shaped CLM records
+======================================================================
+
+======================================================================
+STEP 2/4: Generating Sapio-LIMS-shaped CLM records
+======================================================================
+
+======================================================================
+STEP 3/4: Merging into unified SQLite inventory + generating barcodes
+======================================================================
+{
+  "cell_lines": 40,
+  "passages": 206,
+  "vials": 205,
+  "transfer_events": 305,
+  "qc_results": 78,
+  "faults_injected": {
+    "vials_missing_location": [
+      "VIAL-100103"
+    ],
+    "coc_missing_performer": [
+      "coc_etr_gpp1noqu9y3z2t",
+      "coc_transfer_500100"
+    ],
+    "vials_bad_barcode": [
+      "VIAL-100097"
+    ]
+  }
+}
+
+======================================================================
+STEP 4/4: Running data-integrity validation
+======================================================================
+{
+  "total_checks": 1922,
+  "passed_checks": 1918,
+  "failed_checks": 4,
+  "integrity_pct": 99.7919,
+  "failures_by_check": {
+    "barcode_checksum_valid": 1,
+    "has_storage_location": 1,
+    "has_performer": 2
+  }
+}
+
+======================================================================
+RESULT: 40 cell lines, 205 vials, 511 chain-of-custody-relevant events
+RESULT: Data integrity = 99.7919% (1918/1922 checks passed)
+======================================================================

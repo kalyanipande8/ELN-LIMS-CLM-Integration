@@ -1,0 +1,1172 @@
+[
+  {
+    "recordId": 700000,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025000",
+      "CellLineName": "THP-1-C8",
+      "TestDate": "2025-01-20",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700001,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025000",
+      "CellLineName": "THP-1-C8",
+      "TestDate": "2025-02-27",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "POSITIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700002,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025001",
+      "CellLineName": "COS-7-C28",
+      "TestDate": "2025-01-22",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700003,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025002",
+      "CellLineName": "HEK293-C15",
+      "TestDate": "2025-01-24",
+      "TestedBy": "L. Wu",
+      "MycoplasmaResult": "POSITIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700004,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025003",
+      "CellLineName": "U2OS-C15",
+      "TestDate": "2025-01-26",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "POSITIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700005,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025003",
+      "CellLineName": "U2OS-C15",
+      "TestDate": "2025-03-26",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700006,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025004",
+      "CellLineName": "U2OS-C17",
+      "TestDate": "2025-01-28",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700007,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "TestDate": "2025-01-30",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700008,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025005",
+      "CellLineName": "CHO-K1-C35",
+      "TestDate": "2025-03-08",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700009,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025006",
+      "CellLineName": "MCF-7-C2",
+      "TestDate": "2025-02-01",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700010,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "TestDate": "2025-02-03",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700011,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "TestDate": "2025-05-04",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700012,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025007",
+      "CellLineName": "COS-7-C13",
+      "TestDate": "2025-07-26",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700013,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "TestDate": "2025-02-05",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700014,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025008",
+      "CellLineName": "NIH-3T3-C32",
+      "TestDate": "2025-04-21",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700015,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025009",
+      "CellLineName": "CHO-K1-C16",
+      "TestDate": "2025-02-07",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700016,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025009",
+      "CellLineName": "CHO-K1-C16",
+      "TestDate": "2025-03-18",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700017,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "TestDate": "2025-02-09",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "NO_MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 14
+    }
+  },
+  {
+    "recordId": 700018,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025010",
+      "CellLineName": "Jurkat-C26",
+      "TestDate": "2025-03-22",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700019,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025011",
+      "CellLineName": "K562-C31",
+      "TestDate": "2025-02-11",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700020,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025012",
+      "CellLineName": "COS-7-C21",
+      "TestDate": "2025-02-13",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700021,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025012",
+      "CellLineName": "COS-7-C21",
+      "TestDate": "2025-03-17",
+      "TestedBy": "L. Wu",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700022,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025013",
+      "CellLineName": "U2OS-C20",
+      "TestDate": "2025-02-15",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700023,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025013",
+      "CellLineName": "U2OS-C20",
+      "TestDate": "2025-04-25",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700024,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025014",
+      "CellLineName": "CHO-K1-C28",
+      "TestDate": "2025-02-17",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700025,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "TestDate": "2025-02-19",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700026,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "TestDate": "2025-05-17",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700027,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025015",
+      "CellLineName": "A549-C3",
+      "TestDate": "2025-08-14",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700028,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025016",
+      "CellLineName": "COS-7-C7",
+      "TestDate": "2025-02-21",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700029,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025016",
+      "CellLineName": "COS-7-C7",
+      "TestDate": "2025-04-07",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700030,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025017",
+      "CellLineName": "NIH-3T3-C12",
+      "TestDate": "2025-02-23",
+      "TestedBy": "L. Wu",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700031,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025017",
+      "CellLineName": "NIH-3T3-C12",
+      "TestDate": "2025-04-18",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700032,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025018",
+      "CellLineName": "CHO-K1-C22",
+      "TestDate": "2025-02-25",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700033,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025018",
+      "CellLineName": "CHO-K1-C22",
+      "TestDate": "2025-03-28",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700034,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025018",
+      "CellLineName": "CHO-K1-C22",
+      "TestDate": "2025-05-31",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700035,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "TestDate": "2025-02-27",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700036,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025019",
+      "CellLineName": "Jurkat-C28",
+      "TestDate": "2025-05-03",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700037,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025020",
+      "CellLineName": "Jurkat-C31",
+      "TestDate": "2025-03-01",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700038,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025021",
+      "CellLineName": "Jurkat-C8",
+      "TestDate": "2025-03-03",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700039,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025021",
+      "CellLineName": "Jurkat-C8",
+      "TestDate": "2025-05-25",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700040,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025022",
+      "CellLineName": "THP-1-C16",
+      "TestDate": "2025-03-05",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700041,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025023",
+      "CellLineName": "MCF-7-C1",
+      "TestDate": "2025-03-07",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700042,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025023",
+      "CellLineName": "MCF-7-C1",
+      "TestDate": "2025-05-15",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700043,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "TestDate": "2025-03-09",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700044,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "TestDate": "2025-04-25",
+      "TestedBy": "L. Wu",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700045,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025024",
+      "CellLineName": "HEK293-C26",
+      "TestDate": "2025-06-02",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700046,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "TestDate": "2025-03-11",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700047,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "TestDate": "2025-04-19",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700048,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025025",
+      "CellLineName": "THP-1-C5",
+      "TestDate": "2025-06-26",
+      "TestedBy": "L. Wu",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700049,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025026",
+      "CellLineName": "HEK293-C20",
+      "TestDate": "2025-03-13",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700050,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025026",
+      "CellLineName": "HEK293-C20",
+      "TestDate": "2025-05-15",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700051,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "TestDate": "2025-03-15",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700052,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "TestDate": "2025-05-03",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700053,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025027",
+      "CellLineName": "MCF-7-C7",
+      "TestDate": "2025-06-29",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700054,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025028",
+      "CellLineName": "K562-C40",
+      "TestDate": "2025-03-17",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700055,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025028",
+      "CellLineName": "K562-C40",
+      "TestDate": "2025-05-06",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700056,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025029",
+      "CellLineName": "MCF-7-C29",
+      "TestDate": "2025-03-19",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700057,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "TestDate": "2025-03-21",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700058,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "TestDate": "2025-05-23",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700059,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025030",
+      "CellLineName": "COS-7-C31",
+      "TestDate": "2025-07-16",
+      "TestedBy": "L. Wu",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700060,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025031",
+      "CellLineName": "MCF-7-C22",
+      "TestDate": "2025-03-23",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700061,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025031",
+      "CellLineName": "MCF-7-C22",
+      "TestDate": "2025-05-06",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700062,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "TestDate": "2025-03-25",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700063,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "TestDate": "2025-05-20",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700064,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025032",
+      "CellLineName": "MCF-7-C29",
+      "TestDate": "2025-08-15",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700065,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025033",
+      "CellLineName": "NIH-3T3-C30",
+      "TestDate": "2025-03-27",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700066,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025034",
+      "CellLineName": "COS-7-C20",
+      "TestDate": "2025-03-29",
+      "TestedBy": "M. Rodriguez",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700067,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025034",
+      "CellLineName": "COS-7-C20",
+      "TestDate": "2025-06-11",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700068,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025035",
+      "CellLineName": "U2OS-C29",
+      "TestDate": "2025-03-31",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700069,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025035",
+      "CellLineName": "U2OS-C29",
+      "TestDate": "2025-05-13",
+      "TestedBy": "J. Chen",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700070,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025036",
+      "CellLineName": "A549-C8",
+      "TestDate": "2025-04-02",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700071,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025036",
+      "CellLineName": "A549-C8",
+      "TestDate": "2025-06-11",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700072,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025036",
+      "CellLineName": "A549-C8",
+      "TestDate": "2025-07-11",
+      "TestedBy": "L. Wu",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700073,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025037",
+      "CellLineName": "Jurkat-C11",
+      "TestDate": "2025-04-04",
+      "TestedBy": "K. Pande",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700074,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025038",
+      "CellLineName": "K562-C33",
+      "TestDate": "2025-04-06",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700075,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025039",
+      "CellLineName": "Jurkat-C16",
+      "TestDate": "2025-04-08",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700076,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025039",
+      "CellLineName": "Jurkat-C16",
+      "TestDate": "2025-06-09",
+      "TestedBy": "A. Singh",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  },
+  {
+    "recordId": 700077,
+    "dataTypeName": "QCTestResult",
+    "fields": {
+      "CellLineRegistryId": "CL-2025039",
+      "CellLineName": "Jurkat-C16",
+      "TestDate": "2025-08-16",
+      "TestedBy": "T. Okafor",
+      "MycoplasmaResult": "NEGATIVE",
+      "MycoplasmaMethod": "PCR (Lonza MycoAlert)",
+      "STRIdentityResult": "MATCH",
+      "STRIdentityMethod": "ATCC STR Profiling (16 markers)",
+      "STRMarkersMatched": 16
+    }
+  }
+]

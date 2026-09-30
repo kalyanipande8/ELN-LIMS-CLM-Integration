@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "ent_ifd0tvbdivuzzp",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "THP-1-C8",
+    "registryId": "CL-2025000",
+    "fields": {
+      "cell_line_name": {
+        "value": "THP-1-C8"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-06T13:00:00Z",
+    "modifiedAt": "2025-01-06T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-0/"
+  },
+  {
+    "id": "ent_f8mdd4v30t9nt3",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "COS-7-C28",
+    "registryId": "CL-2025001",
+    "fields": {
+      "cell_line_name": {
+        "value": "COS-7-C28"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-08T13:00:00Z",
+    "modifiedAt": "2025-01-08T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-1/"
+  },
+  {
+    "id": "ent_45nq4fmyzycwti",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "HEK293-C15",
+    "registryId": "CL-2025002",
+    "fields": {
+      "cell_line_name": {
+        "value": "HEK293-C15"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Liver"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-10T10:00:00Z",
+    "modifiedAt": "2025-01-10T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-2/"
+  },
+  {
+    "id": "ent_41ibljh75lxo6q",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "U2OS-C15",
+    "registryId": "CL-2025003",
+    "fields": {
+      "cell_line_name": {
+        "value": "U2OS-C15"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Ovary"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-12T14:00:00Z",
+    "modifiedAt": "2025-01-12T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-3/"
+  },
+  {
+    "id": "ent_6oh9sdbdw2pcn9",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "U2OS-C17",
+    "registryId": "CL-2025004",
+    "fields": {
+      "cell_line_name": {
+        "value": "U2OS-C17"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-14T15:00:00Z",
+    "modifiedAt": "2025-01-14T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-4/"
+  },
+  {
+    "id": "ent_epq85jsg65kxvf",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "CHO-K1-C35",
+    "registryId": "CL-2025005",
+    "fields": {
+      "cell_line_name": {
+        "value": "CHO-K1-C35"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-16T14:00:00Z",
+    "modifiedAt": "2025-01-16T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-5/"
+  },
+  {
+    "id": "ent_53lc58drc11ert",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "MCF-7-C2",
+    "registryId": "CL-2025006",
+    "fields": {
+      "cell_line_name": {
+        "value": "MCF-7-C2"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-18T14:00:00Z",
+    "modifiedAt": "2025-01-18T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-6/"
+  },
+  {
+    "id": "ent_oyn6qicatvazcc",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "COS-7-C13",
+    "registryId": "CL-2025007",
+    "fields": {
+      "cell_line_name": {
+        "value": "COS-7-C13"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-20T13:00:00Z",
+    "modifiedAt": "2025-01-20T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-7/"
+  },
+  {
+    "id": "ent_e7ur23gdppq0y9",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "NIH-3T3-C32",
+    "registryId": "CL-2025008",
+    "fields": {
+      "cell_line_name": {
+        "value": "NIH-3T3-C32"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Kidney"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-22T17:00:00Z",
+    "modifiedAt": "2025-01-22T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-8/"
+  },
+  {
+    "id": "ent_tfgq5c34dxtad1",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "CHO-K1-C16",
+    "registryId": "CL-2025009",
+    "fields": {
+      "cell_line_name": {
+        "value": "CHO-K1-C16"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Ovary"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-24T12:00:00Z",
+    "modifiedAt": "2025-01-24T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-9/"
+  },
+  {
+    "id": "ent_n9j2qp89uzfk8u",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "Jurkat-C26",
+    "registryId": "CL-2025010",
+    "fields": {
+      "cell_line_name": {
+        "value": "Jurkat-C26"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Kidney"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-26T11:00:00Z",
+    "modifiedAt": "2025-01-26T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-10/"
+  },
+  {
+    "id": "ent_f8cgvyie6ivwpv",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "K562-C31",
+    "registryId": "CL-2025011",
+    "fields": {
+      "cell_line_name": {
+        "value": "K562-C31"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-28T17:00:00Z",
+    "modifiedAt": "2025-01-28T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-11/"
+  },
+  {
+    "id": "ent_oykl1cq99chj75",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "COS-7-C21",
+    "registryId": "CL-2025012",
+    "fields": {
+      "cell_line_name": {
+        "value": "COS-7-C21"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-30T13:00:00Z",
+    "modifiedAt": "2025-01-30T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-12/"
+  },
+  {
+    "id": "ent_a3kx7eedtjvzhw",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "U2OS-C20",
+    "registryId": "CL-2025013",
+    "fields": {
+      "cell_line_name": {
+        "value": "U2OS-C20"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-01T17:00:00Z",
+    "modifiedAt": "2025-02-01T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-13/"
+  },
+  {
+    "id": "ent_a1wj0tpac56t4u",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "CHO-K1-C28",
+    "registryId": "CL-2025014",
+    "fields": {
+      "cell_line_name": {
+        "value": "CHO-K1-C28"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Liver"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-03T09:00:00Z",
+    "modifiedAt": "2025-02-03T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-14/"
+  },
+  {
+    "id": "ent_yymu5907if2gog",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "A549-C3",
+    "registryId": "CL-2025015",
+    "fields": {
+      "cell_line_name": {
+        "value": "A549-C3"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Liver"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-05T12:00:00Z",
+    "modifiedAt": "2025-02-05T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-15/"
+  },
+  {
+    "id": "ent_4i3qk2iagl58kx",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "COS-7-C7",
+    "registryId": "CL-2025016",
+    "fields": {
+      "cell_line_name": {
+        "value": "COS-7-C7"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Embryo"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-07T09:00:00Z",
+    "modifiedAt": "2025-02-07T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-16/"
+  },
+  {
+    "id": "ent_bvm2p9e6gbps3y",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "NIH-3T3-C12",
+    "registryId": "CL-2025017",
+    "fields": {
+      "cell_line_name": {
+        "value": "NIH-3T3-C12"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Embryo"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-09T13:00:00Z",
+    "modifiedAt": "2025-02-09T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-17/"
+  },
+  {
+    "id": "ent_xe6sylztgxn0gu",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "CHO-K1-C22",
+    "registryId": "CL-2025018",
+    "fields": {
+      "cell_line_name": {
+        "value": "CHO-K1-C22"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-11T14:00:00Z",
+    "modifiedAt": "2025-02-11T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-18/"
+  },
+  {
+    "id": "ent_qphr62gdswm31y",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "Jurkat-C28",
+    "registryId": "CL-2025019",
+    "fields": {
+      "cell_line_name": {
+        "value": "Jurkat-C28"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Ovary"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-13T14:00:00Z",
+    "modifiedAt": "2025-02-13T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-19/"
+  },
+  {
+    "id": "ent_q5uznofy6452h2",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "Jurkat-C31",
+    "registryId": "CL-2025020",
+    "fields": {
+      "cell_line_name": {
+        "value": "Jurkat-C31"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-15T10:00:00Z",
+    "modifiedAt": "2025-02-15T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-20/"
+  },
+  {
+    "id": "ent_2y9v86wzs3t60r",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "Jurkat-C8",
+    "registryId": "CL-2025021",
+    "fields": {
+      "cell_line_name": {
+        "value": "Jurkat-C8"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Ovary"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-17T11:00:00Z",
+    "modifiedAt": "2025-02-17T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-21/"
+  },
+  {
+    "id": "ent_ckjlteiyzcotoh",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "THP-1-C16",
+    "registryId": "CL-2025022",
+    "fields": {
+      "cell_line_name": {
+        "value": "THP-1-C16"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Liver"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-19T16:00:00Z",
+    "modifiedAt": "2025-02-19T16:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-22/"
+  },
+  {
+    "id": "ent_148p0tvhhpbmyo",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "MCF-7-C1",
+    "registryId": "CL-2025023",
+    "fields": {
+      "cell_line_name": {
+        "value": "MCF-7-C1"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Liver"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-21T13:00:00Z",
+    "modifiedAt": "2025-02-21T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-23/"
+  },
+  {
+    "id": "ent_dp5gjlqm5k8p4q",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "HEK293-C26",
+    "registryId": "CL-2025024",
+    "fields": {
+      "cell_line_name": {
+        "value": "HEK293-C26"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-23T09:00:00Z",
+    "modifiedAt": "2025-02-23T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-24/"
+  },
+  {
+    "id": "ent_18hafeyuhz1gv0",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "THP-1-C5",
+    "registryId": "CL-2025025",
+    "fields": {
+      "cell_line_name": {
+        "value": "THP-1-C5"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Ovary"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-25T09:00:00Z",
+    "modifiedAt": "2025-02-25T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-25/"
+  },
+  {
+    "id": "ent_ozcywd14ve92mp",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "HEK293-C20",
+    "registryId": "CL-2025026",
+    "fields": {
+      "cell_line_name": {
+        "value": "HEK293-C20"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Kidney"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-27T15:00:00Z",
+    "modifiedAt": "2025-02-27T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-26/"
+  },
+  {
+    "id": "ent_w3zp08j3trp0j4",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "MCF-7-C7",
+    "registryId": "CL-2025027",
+    "fields": {
+      "cell_line_name": {
+        "value": "MCF-7-C7"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-01T14:00:00Z",
+    "modifiedAt": "2025-03-01T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-27/"
+  },
+  {
+    "id": "ent_mrlrmjkv5usgio",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "K562-C40",
+    "registryId": "CL-2025028",
+    "fields": {
+      "cell_line_name": {
+        "value": "K562-C40"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Ovary"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-03T15:00:00Z",
+    "modifiedAt": "2025-03-03T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-28/"
+  },
+  {
+    "id": "ent_koixntm9tmqliz",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "MCF-7-C29",
+    "registryId": "CL-2025029",
+    "fields": {
+      "cell_line_name": {
+        "value": "MCF-7-C29"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Kidney"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-05T10:00:00Z",
+    "modifiedAt": "2025-03-05T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-29/"
+  },
+  {
+    "id": "ent_v93kmkzebbk7w1",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "COS-7-C31",
+    "registryId": "CL-2025030",
+    "fields": {
+      "cell_line_name": {
+        "value": "COS-7-C31"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Kidney"
+      },
+      "culture_medium": {
+        "value": "F-12K + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-07T17:00:00Z",
+    "modifiedAt": "2025-03-07T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-30/"
+  },
+  {
+    "id": "ent_j5ecruyf38diuo",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "MCF-7-C22",
+    "registryId": "CL-2025031",
+    "fields": {
+      "cell_line_name": {
+        "value": "MCF-7-C22"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-09T09:00:00Z",
+    "modifiedAt": "2025-03-09T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-31/"
+  },
+  {
+    "id": "ent_kwv08hhxfgcaqv",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "MCF-7-C29",
+    "registryId": "CL-2025032",
+    "fields": {
+      "cell_line_name": {
+        "value": "MCF-7-C29"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Kidney"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-11T15:00:00Z",
+    "modifiedAt": "2025-03-11T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-32/"
+  },
+  {
+    "id": "ent_72wx7ptx63cfl0",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "NIH-3T3-C30",
+    "registryId": "CL-2025033",
+    "fields": {
+      "cell_line_name": {
+        "value": "NIH-3T3-C30"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-13T12:00:00Z",
+    "modifiedAt": "2025-03-13T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-33/"
+  },
+  {
+    "id": "ent_7srcbpljd84u89",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "COS-7-C20",
+    "registryId": "CL-2025034",
+    "fields": {
+      "cell_line_name": {
+        "value": "COS-7-C20"
+      },
+      "species": {
+        "value": "Cricetulus griseus"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, epithelial"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-15T15:00:00Z",
+    "modifiedAt": "2025-03-15T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-34/"
+  },
+  {
+    "id": "ent_9p38qoldforxo1",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "U2OS-C29",
+    "registryId": "CL-2025035",
+    "fields": {
+      "cell_line_name": {
+        "value": "U2OS-C29"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Liver"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-17T11:00:00Z",
+    "modifiedAt": "2025-03-17T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-35/"
+  },
+  {
+    "id": "ent_3a5qbswrpbjek5",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "A549-C8",
+    "registryId": "CL-2025036",
+    "fields": {
+      "cell_line_name": {
+        "value": "A549-C8"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Kidney"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Unknown"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-19T17:00:00Z",
+    "modifiedAt": "2025-03-19T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-36/"
+  },
+  {
+    "id": "ent_aoi4e8xf7kzorq",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "Jurkat-C11",
+    "registryId": "CL-2025037",
+    "fields": {
+      "cell_line_name": {
+        "value": "Jurkat-C11"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Bone marrow"
+      },
+      "culture_medium": {
+        "value": "RPMI-1640 + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Female"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-21T17:00:00Z",
+    "modifiedAt": "2025-03-21T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-37/"
+  },
+  {
+    "id": "ent_5j2o7s3kkv9rft",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "K562-C33",
+    "registryId": "CL-2025038",
+    "fields": {
+      "cell_line_name": {
+        "value": "K562-C33"
+      },
+      "species": {
+        "value": "Mus musculus"
+      },
+      "tissue_origin": {
+        "value": "Lung"
+      },
+      "culture_medium": {
+        "value": "IMDM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Suspension"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-23T11:00:00Z",
+    "modifiedAt": "2025-03-23T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-38/"
+  },
+  {
+    "id": "ent_i1b0z3nx39rbsv",
+    "entityType": "custom_entity",
+    "schema": {
+      "id": "ts_cellline01",
+      "name": "Cell Line Registration"
+    },
+    "name": "Jurkat-C16",
+    "registryId": "CL-2025039",
+    "fields": {
+      "cell_line_name": {
+        "value": "Jurkat-C16"
+      },
+      "species": {
+        "value": "Homo sapiens"
+      },
+      "tissue_origin": {
+        "value": "Liver"
+      },
+      "culture_medium": {
+        "value": "DMEM + 10% FBS"
+      },
+      "morphology": {
+        "value": "Adherent, fibroblast-like"
+      },
+      "source_organism_sex": {
+        "value": "Male"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-25T15:00:00Z",
+    "modifiedAt": "2025-03-25T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entity-39/"
+  }
+]

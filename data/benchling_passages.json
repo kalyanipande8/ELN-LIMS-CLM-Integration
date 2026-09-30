@@ -1,0 +1,8448 @@
+[
+  {
+    "id": "etr_8c2jwoclyt8w5r",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - THP-1-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025000"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ifd0tvbdivuzzp"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-09"
+      },
+      "confluency_pct": {
+        "value": 83.5
+      },
+      "viability_pct": {
+        "value": 95.1
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-09T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ifd0tvbdivuzzp-1/"
+  },
+  {
+    "id": "etr_0pdw5py6b2knft",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - THP-1-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025000"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ifd0tvbdivuzzp"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-13"
+      },
+      "confluency_pct": {
+        "value": 84.1
+      },
+      "viability_pct": {
+        "value": 97.1
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-13T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ifd0tvbdivuzzp-2/"
+  },
+  {
+    "id": "etr_vnyruiwqy6qktc",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - THP-1-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025000"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ifd0tvbdivuzzp"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-01-16"
+      },
+      "confluency_pct": {
+        "value": 93.6
+      },
+      "viability_pct": {
+        "value": 99.4
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-16T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ifd0tvbdivuzzp-3/"
+  },
+  {
+    "id": "etr_j4hnriuu9k9xju",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - THP-1-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025000"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ifd0tvbdivuzzp"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-01-21"
+      },
+      "confluency_pct": {
+        "value": 87.1
+      },
+      "viability_pct": {
+        "value": 96.6
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-21T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ifd0tvbdivuzzp-4/"
+  },
+  {
+    "id": "etr_1i2hgj11yedwb2",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - THP-1-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025000"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ifd0tvbdivuzzp"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-01-26"
+      },
+      "confluency_pct": {
+        "value": 70.8
+      },
+      "viability_pct": {
+        "value": 92.2
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-26T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ifd0tvbdivuzzp-5/"
+  },
+  {
+    "id": "etr_loh25nsjf678k5",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - THP-1-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025000"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ifd0tvbdivuzzp"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-01-28"
+      },
+      "confluency_pct": {
+        "value": 90.1
+      },
+      "viability_pct": {
+        "value": 93.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-28T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ifd0tvbdivuzzp-6/"
+  },
+  {
+    "id": "etr_40982n2atqyyv3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - THP-1-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025000"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ifd0tvbdivuzzp"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-01-31"
+      },
+      "confluency_pct": {
+        "value": 93.5
+      },
+      "viability_pct": {
+        "value": 89.2
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-31T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ifd0tvbdivuzzp-7/"
+  },
+  {
+    "id": "etr_w7lvxwqzxebb9e",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - COS-7-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025001"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8mdd4v30t9nt3"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-11"
+      },
+      "confluency_pct": {
+        "value": 75.9
+      },
+      "viability_pct": {
+        "value": 94.2
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-11T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8mdd4v30t9nt3-1/"
+  },
+  {
+    "id": "etr_y08p0fodro8bnp",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - COS-7-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025001"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8mdd4v30t9nt3"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-16"
+      },
+      "confluency_pct": {
+        "value": 93.8
+      },
+      "viability_pct": {
+        "value": 97.8
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-16T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8mdd4v30t9nt3-2/"
+  },
+  {
+    "id": "etr_6xcj883dhx8bm9",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - COS-7-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025001"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8mdd4v30t9nt3"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-01-20"
+      },
+      "confluency_pct": {
+        "value": 89.7
+      },
+      "viability_pct": {
+        "value": 90.4
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-20T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8mdd4v30t9nt3-3/"
+  },
+  {
+    "id": "etr_h5lf6a4fejgxaa",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - COS-7-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025001"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8mdd4v30t9nt3"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-01-23"
+      },
+      "confluency_pct": {
+        "value": 89.7
+      },
+      "viability_pct": {
+        "value": 90.7
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-23T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8mdd4v30t9nt3-4/"
+  },
+  {
+    "id": "etr_jepecqnvqhw06x",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - COS-7-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025001"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8mdd4v30t9nt3"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-01-25"
+      },
+      "confluency_pct": {
+        "value": 77.5
+      },
+      "viability_pct": {
+        "value": 95.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-25T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8mdd4v30t9nt3-5/"
+  },
+  {
+    "id": "etr_4pdzp6lfewvznv",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - COS-7-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025001"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8mdd4v30t9nt3"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-01-27"
+      },
+      "confluency_pct": {
+        "value": 77.4
+      },
+      "viability_pct": {
+        "value": 93.8
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-01-27T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8mdd4v30t9nt3-6/"
+  },
+  {
+    "id": "etr_x1zhqimqodpxnf",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - HEK293-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025002"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_45nq4fmyzycwti"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-13"
+      },
+      "confluency_pct": {
+        "value": 93.1
+      },
+      "viability_pct": {
+        "value": 88.8
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-13T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_45nq4fmyzycwti-1/"
+  },
+  {
+    "id": "etr_d03uvulemx15z8",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - HEK293-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025002"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_45nq4fmyzycwti"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-15"
+      },
+      "confluency_pct": {
+        "value": 85.0
+      },
+      "viability_pct": {
+        "value": 92.0
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-01-15T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_45nq4fmyzycwti-2/"
+  },
+  {
+    "id": "etr_xid4n1u3493wxa",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - HEK293-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025002"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_45nq4fmyzycwti"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-01-18"
+      },
+      "confluency_pct": {
+        "value": 93.2
+      },
+      "viability_pct": {
+        "value": 97.5
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-18T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_45nq4fmyzycwti-3/"
+  },
+  {
+    "id": "etr_j17mgfxc08dtnq",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - HEK293-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025002"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_45nq4fmyzycwti"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-01-20"
+      },
+      "confluency_pct": {
+        "value": 73.9
+      },
+      "viability_pct": {
+        "value": 91.6
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-20T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_45nq4fmyzycwti-4/"
+  },
+  {
+    "id": "etr_f1bcppvohsmdyv",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - HEK293-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025002"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_45nq4fmyzycwti"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-01-22"
+      },
+      "confluency_pct": {
+        "value": 83.2
+      },
+      "viability_pct": {
+        "value": 91.5
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-22T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_45nq4fmyzycwti-5/"
+  },
+  {
+    "id": "etr_bh811kerpetiuy",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - HEK293-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025002"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_45nq4fmyzycwti"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-01-27"
+      },
+      "confluency_pct": {
+        "value": 78.9
+      },
+      "viability_pct": {
+        "value": 92.6
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-27T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_45nq4fmyzycwti-6/"
+  },
+  {
+    "id": "etr_qclpoxko8g8qyn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - U2OS-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025003"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_41ibljh75lxo6q"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-15"
+      },
+      "confluency_pct": {
+        "value": 80.9
+      },
+      "viability_pct": {
+        "value": 89.2
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-15T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_41ibljh75lxo6q-1/"
+  },
+  {
+    "id": "etr_c50h2cwtg1m8xf",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - U2OS-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025003"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_41ibljh75lxo6q"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-20"
+      },
+      "confluency_pct": {
+        "value": 72.6
+      },
+      "viability_pct": {
+        "value": 90.9
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-20T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_41ibljh75lxo6q-2/"
+  },
+  {
+    "id": "etr_c8wquuy5x9l8lp",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - U2OS-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025003"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_41ibljh75lxo6q"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-01-23"
+      },
+      "confluency_pct": {
+        "value": 81.7
+      },
+      "viability_pct": {
+        "value": 95.3
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-23T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_41ibljh75lxo6q-3/"
+  },
+  {
+    "id": "etr_slqc3c54wsqt26",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - U2OS-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025003"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_41ibljh75lxo6q"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-01-25"
+      },
+      "confluency_pct": {
+        "value": 81.2
+      },
+      "viability_pct": {
+        "value": 97.3
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-25T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_41ibljh75lxo6q-4/"
+  },
+  {
+    "id": "etr_rfcd6mzsgippsf",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - U2OS-C15",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025003"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_41ibljh75lxo6q"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-01-29"
+      },
+      "confluency_pct": {
+        "value": 79.3
+      },
+      "viability_pct": {
+        "value": 91.3
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-29T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_41ibljh75lxo6q-5/"
+  },
+  {
+    "id": "etr_xcdyk0x65mufm8",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - U2OS-C17",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025004"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_6oh9sdbdw2pcn9"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-17"
+      },
+      "confluency_pct": {
+        "value": 87.5
+      },
+      "viability_pct": {
+        "value": 92.5
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-17T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_6oh9sdbdw2pcn9-1/"
+  },
+  {
+    "id": "etr_uxlez896dysal8",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - U2OS-C17",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025004"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_6oh9sdbdw2pcn9"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-19"
+      },
+      "confluency_pct": {
+        "value": 78.5
+      },
+      "viability_pct": {
+        "value": 96.8
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-19T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_6oh9sdbdw2pcn9-2/"
+  },
+  {
+    "id": "etr_fk2st0sx5wvfgy",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - U2OS-C17",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025004"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_6oh9sdbdw2pcn9"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-01-22"
+      },
+      "confluency_pct": {
+        "value": 85.6
+      },
+      "viability_pct": {
+        "value": 98.4
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-22T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_6oh9sdbdw2pcn9-3/"
+  },
+  {
+    "id": "etr_nz8v12ii826gyu",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - U2OS-C17",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025004"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_6oh9sdbdw2pcn9"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-01-24"
+      },
+      "confluency_pct": {
+        "value": 81.0
+      },
+      "viability_pct": {
+        "value": 96.8
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-01-24T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_6oh9sdbdw2pcn9-4/"
+  },
+  {
+    "id": "etr_32ejx5td44k1j6",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - U2OS-C17",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025004"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_6oh9sdbdw2pcn9"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-01-29"
+      },
+      "confluency_pct": {
+        "value": 73.7
+      },
+      "viability_pct": {
+        "value": 93.0
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-29T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_6oh9sdbdw2pcn9-5/"
+  },
+  {
+    "id": "etr_7oonncildzmfb7",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - CHO-K1-C35",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025005"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_epq85jsg65kxvf"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-19"
+      },
+      "confluency_pct": {
+        "value": 81.8
+      },
+      "viability_pct": {
+        "value": 97.6
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-19T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_epq85jsg65kxvf-1/"
+  },
+  {
+    "id": "etr_acj4t0sekkbp2q",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - CHO-K1-C35",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025005"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_epq85jsg65kxvf"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-24"
+      },
+      "confluency_pct": {
+        "value": 72.8
+      },
+      "viability_pct": {
+        "value": 98.4
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-24T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_epq85jsg65kxvf-2/"
+  },
+  {
+    "id": "etr_sifpwioxd9css9",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - CHO-K1-C35",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025005"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_epq85jsg65kxvf"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-01-26"
+      },
+      "confluency_pct": {
+        "value": 83.9
+      },
+      "viability_pct": {
+        "value": 92.5
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-26T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_epq85jsg65kxvf-3/"
+  },
+  {
+    "id": "etr_nn0mcixdu1emmx",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - CHO-K1-C35",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025005"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_epq85jsg65kxvf"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-01-28"
+      },
+      "confluency_pct": {
+        "value": 90.8
+      },
+      "viability_pct": {
+        "value": 95.9
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-01-28T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_epq85jsg65kxvf-4/"
+  },
+  {
+    "id": "etr_c1qkbhb7s9tj1g",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - CHO-K1-C35",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025005"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_epq85jsg65kxvf"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-01-31"
+      },
+      "confluency_pct": {
+        "value": 78.9
+      },
+      "viability_pct": {
+        "value": 97.0
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-31T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_epq85jsg65kxvf-5/"
+  },
+  {
+    "id": "etr_06n9rr7s20cv3t",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - MCF-7-C2",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025006"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_53lc58drc11ert"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-21"
+      },
+      "confluency_pct": {
+        "value": 78.0
+      },
+      "viability_pct": {
+        "value": 88.9
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-01-21T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_53lc58drc11ert-1/"
+  },
+  {
+    "id": "etr_vpymb5m9j98cwn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - MCF-7-C2",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025006"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_53lc58drc11ert"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-25"
+      },
+      "confluency_pct": {
+        "value": 90.0
+      },
+      "viability_pct": {
+        "value": 95.8
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-01-25T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_53lc58drc11ert-2/"
+  },
+  {
+    "id": "etr_ypeixn8bfqnpce",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - MCF-7-C2",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025006"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_53lc58drc11ert"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-01-28"
+      },
+      "confluency_pct": {
+        "value": 79.2
+      },
+      "viability_pct": {
+        "value": 91.6
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-28T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_53lc58drc11ert-3/"
+  },
+  {
+    "id": "etr_ags6e1zhwy9hec",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - MCF-7-C2",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025006"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_53lc58drc11ert"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-01-31"
+      },
+      "confluency_pct": {
+        "value": 74.3
+      },
+      "viability_pct": {
+        "value": 96.2
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-31T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_53lc58drc11ert-4/"
+  },
+  {
+    "id": "etr_mct64z7w2sehe2",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - MCF-7-C2",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025006"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_53lc58drc11ert"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-04"
+      },
+      "confluency_pct": {
+        "value": 70.7
+      },
+      "viability_pct": {
+        "value": 94.4
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-04T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_53lc58drc11ert-5/"
+  },
+  {
+    "id": "etr_e5cozroouelcqs",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - MCF-7-C2",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025006"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_53lc58drc11ert"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-02-09"
+      },
+      "confluency_pct": {
+        "value": 73.2
+      },
+      "viability_pct": {
+        "value": 97.5
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-09T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_53lc58drc11ert-6/"
+  },
+  {
+    "id": "etr_p6befflzm764jw",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - MCF-7-C2",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025006"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_53lc58drc11ert"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-02-12"
+      },
+      "confluency_pct": {
+        "value": 83.8
+      },
+      "viability_pct": {
+        "value": 89.4
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-12T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_53lc58drc11ert-7/"
+  },
+  {
+    "id": "etr_xvugw6m7b5c81j",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - COS-7-C13",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025007"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oyn6qicatvazcc"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-23"
+      },
+      "confluency_pct": {
+        "value": 75.3
+      },
+      "viability_pct": {
+        "value": 94.6
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-23T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oyn6qicatvazcc-1/"
+  },
+  {
+    "id": "etr_6txki3oqyfoqmf",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - COS-7-C13",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025007"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oyn6qicatvazcc"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-25"
+      },
+      "confluency_pct": {
+        "value": 91.5
+      },
+      "viability_pct": {
+        "value": 91.7
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-01-25T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oyn6qicatvazcc-2/"
+  },
+  {
+    "id": "etr_1sdieqfb85p863",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - COS-7-C13",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025007"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oyn6qicatvazcc"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-01-30"
+      },
+      "confluency_pct": {
+        "value": 93.3
+      },
+      "viability_pct": {
+        "value": 96.3
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-30T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oyn6qicatvazcc-3/"
+  },
+  {
+    "id": "etr_9q5rdoqivbkv4y",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - COS-7-C13",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025007"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oyn6qicatvazcc"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-02"
+      },
+      "confluency_pct": {
+        "value": 77.1
+      },
+      "viability_pct": {
+        "value": 88.1
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-02T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oyn6qicatvazcc-4/"
+  },
+  {
+    "id": "etr_501nouhtcs1k9y",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - COS-7-C13",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025007"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oyn6qicatvazcc"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-07"
+      },
+      "confluency_pct": {
+        "value": 73.0
+      },
+      "viability_pct": {
+        "value": 99.2
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-07T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oyn6qicatvazcc-5/"
+  },
+  {
+    "id": "etr_unfvobbz2sf6f7",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - COS-7-C13",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025007"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oyn6qicatvazcc"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-02-11"
+      },
+      "confluency_pct": {
+        "value": 78.0
+      },
+      "viability_pct": {
+        "value": 92.5
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-11T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oyn6qicatvazcc-6/"
+  },
+  {
+    "id": "etr_m3tzk3ny9v20ya",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - COS-7-C13",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025007"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oyn6qicatvazcc"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-02-15"
+      },
+      "confluency_pct": {
+        "value": 81.9
+      },
+      "viability_pct": {
+        "value": 99.1
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-15T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oyn6qicatvazcc-7/"
+  },
+  {
+    "id": "etr_sz1n3iuzgppohs",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - NIH-3T3-C32",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025008"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_e7ur23gdppq0y9"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-25"
+      },
+      "confluency_pct": {
+        "value": 85.3
+      },
+      "viability_pct": {
+        "value": 93.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-01-25T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_e7ur23gdppq0y9-1/"
+  },
+  {
+    "id": "etr_hlxslg6mm1zxyv",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - NIH-3T3-C32",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025008"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_e7ur23gdppq0y9"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-28"
+      },
+      "confluency_pct": {
+        "value": 74.8
+      },
+      "viability_pct": {
+        "value": 90.8
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-28T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_e7ur23gdppq0y9-2/"
+  },
+  {
+    "id": "etr_791zyrru7zkut6",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - NIH-3T3-C32",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025008"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_e7ur23gdppq0y9"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-01"
+      },
+      "confluency_pct": {
+        "value": 79.9
+      },
+      "viability_pct": {
+        "value": 92.0
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-01T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_e7ur23gdppq0y9-3/"
+  },
+  {
+    "id": "etr_kzmpjrht7zewvi",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - NIH-3T3-C32",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025008"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_e7ur23gdppq0y9"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-05"
+      },
+      "confluency_pct": {
+        "value": 86.7
+      },
+      "viability_pct": {
+        "value": 94.1
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-02-05T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_e7ur23gdppq0y9-4/"
+  },
+  {
+    "id": "etr_ozd1at7o75rh8l",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - NIH-3T3-C32",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025008"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_e7ur23gdppq0y9"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-07"
+      },
+      "confluency_pct": {
+        "value": 86.1
+      },
+      "viability_pct": {
+        "value": 98.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-02-07T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_e7ur23gdppq0y9-5/"
+  },
+  {
+    "id": "etr_04b7p47b42g05k",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - CHO-K1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025009"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_tfgq5c34dxtad1"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-27"
+      },
+      "confluency_pct": {
+        "value": 70.9
+      },
+      "viability_pct": {
+        "value": 91.4
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-01-27T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_tfgq5c34dxtad1-1/"
+  },
+  {
+    "id": "etr_k9tr74qgefqjg0",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - CHO-K1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025009"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_tfgq5c34dxtad1"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-01-29"
+      },
+      "confluency_pct": {
+        "value": 89.8
+      },
+      "viability_pct": {
+        "value": 94.5
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-01-29T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_tfgq5c34dxtad1-2/"
+  },
+  {
+    "id": "etr_463sdygfliji18",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - CHO-K1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025009"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_tfgq5c34dxtad1"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-01"
+      },
+      "confluency_pct": {
+        "value": 77.5
+      },
+      "viability_pct": {
+        "value": 96.3
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-01T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_tfgq5c34dxtad1-3/"
+  },
+  {
+    "id": "etr_yqfy751yw7nh8r",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - Jurkat-C26",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025010"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_n9j2qp89uzfk8u"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-29"
+      },
+      "confluency_pct": {
+        "value": 81.4
+      },
+      "viability_pct": {
+        "value": 99.4
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-01-29T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_n9j2qp89uzfk8u-1/"
+  },
+  {
+    "id": "etr_tqtxhi15cqzcuc",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - Jurkat-C26",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025010"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_n9j2qp89uzfk8u"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-03"
+      },
+      "confluency_pct": {
+        "value": 83.7
+      },
+      "viability_pct": {
+        "value": 93.8
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-03T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_n9j2qp89uzfk8u-2/"
+  },
+  {
+    "id": "etr_lsehuds3qsqcq3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - Jurkat-C26",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025010"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_n9j2qp89uzfk8u"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-06"
+      },
+      "confluency_pct": {
+        "value": 88.1
+      },
+      "viability_pct": {
+        "value": 92.6
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-06T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_n9j2qp89uzfk8u-3/"
+  },
+  {
+    "id": "etr_cpztc69qkgex08",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - Jurkat-C26",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025010"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_n9j2qp89uzfk8u"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-09"
+      },
+      "confluency_pct": {
+        "value": 79.4
+      },
+      "viability_pct": {
+        "value": 98.3
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-09T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_n9j2qp89uzfk8u-4/"
+  },
+  {
+    "id": "etr_c85e4e9oe9419q",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - K562-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025011"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8cgvyie6ivwpv"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-01-31"
+      },
+      "confluency_pct": {
+        "value": 88.0
+      },
+      "viability_pct": {
+        "value": 92.9
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-01-31T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8cgvyie6ivwpv-1/"
+  },
+  {
+    "id": "etr_qfg51bxw76icvq",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - K562-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025011"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8cgvyie6ivwpv"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-03"
+      },
+      "confluency_pct": {
+        "value": 86.8
+      },
+      "viability_pct": {
+        "value": 98.0
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-03T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8cgvyie6ivwpv-2/"
+  },
+  {
+    "id": "etr_pt11f9i6uu13i5",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - K562-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025011"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_f8cgvyie6ivwpv"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-05"
+      },
+      "confluency_pct": {
+        "value": 94.6
+      },
+      "viability_pct": {
+        "value": 94.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-05T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_f8cgvyie6ivwpv-3/"
+  },
+  {
+    "id": "etr_56wpr97y2lofn1",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - COS-7-C21",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025012"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oykl1cq99chj75"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-02"
+      },
+      "confluency_pct": {
+        "value": 81.8
+      },
+      "viability_pct": {
+        "value": 97.8
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-02T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oykl1cq99chj75-1/"
+  },
+  {
+    "id": "etr_6u8ueihx74d0gj",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - COS-7-C21",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025012"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oykl1cq99chj75"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-05"
+      },
+      "confluency_pct": {
+        "value": 86.8
+      },
+      "viability_pct": {
+        "value": 94.9
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-05T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oykl1cq99chj75-2/"
+  },
+  {
+    "id": "etr_0ur5l8a78e9riv",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - COS-7-C21",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025012"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oykl1cq99chj75"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-08"
+      },
+      "confluency_pct": {
+        "value": 75.1
+      },
+      "viability_pct": {
+        "value": 98.5
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-08T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oykl1cq99chj75-3/"
+  },
+  {
+    "id": "etr_ntmjsrd9q46nou",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - COS-7-C21",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025012"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oykl1cq99chj75"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-12"
+      },
+      "confluency_pct": {
+        "value": 75.5
+      },
+      "viability_pct": {
+        "value": 89.7
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-12T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oykl1cq99chj75-4/"
+  },
+  {
+    "id": "etr_fln4rxyj38xrg2",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - COS-7-C21",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025012"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_oykl1cq99chj75"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-17"
+      },
+      "confluency_pct": {
+        "value": 74.2
+      },
+      "viability_pct": {
+        "value": 96.3
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-17T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_oykl1cq99chj75-5/"
+  },
+  {
+    "id": "etr_98s4c3baewcfhq",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - U2OS-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025013"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a3kx7eedtjvzhw"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-04"
+      },
+      "confluency_pct": {
+        "value": 71.5
+      },
+      "viability_pct": {
+        "value": 95.3
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-04T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a3kx7eedtjvzhw-1/"
+  },
+  {
+    "id": "etr_ratatj9a3y36dd",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - U2OS-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025013"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a3kx7eedtjvzhw"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-09"
+      },
+      "confluency_pct": {
+        "value": 73.7
+      },
+      "viability_pct": {
+        "value": 90.2
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-09T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a3kx7eedtjvzhw-2/"
+  },
+  {
+    "id": "etr_jonou9iy4x41dn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - U2OS-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025013"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a3kx7eedtjvzhw"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-13"
+      },
+      "confluency_pct": {
+        "value": 83.8
+      },
+      "viability_pct": {
+        "value": 88.6
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-13T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a3kx7eedtjvzhw-3/"
+  },
+  {
+    "id": "etr_rp2u4dtbh55rbc",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - U2OS-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025013"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a3kx7eedtjvzhw"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-16"
+      },
+      "confluency_pct": {
+        "value": 93.1
+      },
+      "viability_pct": {
+        "value": 98.3
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-02-16T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a3kx7eedtjvzhw-4/"
+  },
+  {
+    "id": "etr_7l8v1zocfi4o6l",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - U2OS-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025013"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a3kx7eedtjvzhw"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-18"
+      },
+      "confluency_pct": {
+        "value": 88.9
+      },
+      "viability_pct": {
+        "value": 89.6
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-18T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a3kx7eedtjvzhw-5/"
+  },
+  {
+    "id": "etr_dicvwv8lw2qitn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - U2OS-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025013"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a3kx7eedtjvzhw"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-02-22"
+      },
+      "confluency_pct": {
+        "value": 74.6
+      },
+      "viability_pct": {
+        "value": 94.7
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-02-22T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a3kx7eedtjvzhw-6/"
+  },
+  {
+    "id": "etr_kicjn2fomd7q1d",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - U2OS-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025013"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a3kx7eedtjvzhw"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-02-24"
+      },
+      "confluency_pct": {
+        "value": 72.2
+      },
+      "viability_pct": {
+        "value": 93.0
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-24T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a3kx7eedtjvzhw-7/"
+  },
+  {
+    "id": "etr_amdvlnknd669ug",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 8 - U2OS-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025013"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a3kx7eedtjvzhw"
+      },
+      "passage_number": {
+        "value": 8
+      },
+      "passage_date": {
+        "value": "2025-03-01"
+      },
+      "confluency_pct": {
+        "value": 79.5
+      },
+      "viability_pct": {
+        "value": 89.6
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-01T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a3kx7eedtjvzhw-8/"
+  },
+  {
+    "id": "etr_jk2n7zrwqeao4n",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - CHO-K1-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025014"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a1wj0tpac56t4u"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-06"
+      },
+      "confluency_pct": {
+        "value": 91.6
+      },
+      "viability_pct": {
+        "value": 93.1
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-06T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a1wj0tpac56t4u-1/"
+  },
+  {
+    "id": "etr_l8hl88kzruin3o",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - CHO-K1-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025014"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a1wj0tpac56t4u"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-09"
+      },
+      "confluency_pct": {
+        "value": 72.8
+      },
+      "viability_pct": {
+        "value": 94.5
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-09T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a1wj0tpac56t4u-2/"
+  },
+  {
+    "id": "etr_1a07h23c42yfkj",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - CHO-K1-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025014"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a1wj0tpac56t4u"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-12"
+      },
+      "confluency_pct": {
+        "value": 73.9
+      },
+      "viability_pct": {
+        "value": 92.9
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-12T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a1wj0tpac56t4u-3/"
+  },
+  {
+    "id": "etr_9ros7yt2m6twd1",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - CHO-K1-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025014"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a1wj0tpac56t4u"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-14"
+      },
+      "confluency_pct": {
+        "value": 86.4
+      },
+      "viability_pct": {
+        "value": 92.1
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-14T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a1wj0tpac56t4u-4/"
+  },
+  {
+    "id": "etr_9yo18pajssuuqo",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - CHO-K1-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025014"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_a1wj0tpac56t4u"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-16"
+      },
+      "confluency_pct": {
+        "value": 89.3
+      },
+      "viability_pct": {
+        "value": 94.8
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-16T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_a1wj0tpac56t4u-5/"
+  },
+  {
+    "id": "etr_9rk7d30mm2smdz",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - A549-C3",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025015"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_yymu5907if2gog"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-08"
+      },
+      "confluency_pct": {
+        "value": 81.3
+      },
+      "viability_pct": {
+        "value": 88.8
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-08T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_yymu5907if2gog-1/"
+  },
+  {
+    "id": "etr_4xyf9igfu8iogx",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - A549-C3",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025015"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_yymu5907if2gog"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-10"
+      },
+      "confluency_pct": {
+        "value": 80.8
+      },
+      "viability_pct": {
+        "value": 88.3
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-02-10T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_yymu5907if2gog-2/"
+  },
+  {
+    "id": "etr_vnzh13cd5glqj5",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - A549-C3",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025015"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_yymu5907if2gog"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-13"
+      },
+      "confluency_pct": {
+        "value": 83.2
+      },
+      "viability_pct": {
+        "value": 95.3
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-13T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_yymu5907if2gog-3/"
+  },
+  {
+    "id": "etr_oemqgy27vylien",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - A549-C3",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025015"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_yymu5907if2gog"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-18"
+      },
+      "confluency_pct": {
+        "value": 73.5
+      },
+      "viability_pct": {
+        "value": 92.5
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-18T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_yymu5907if2gog-4/"
+  },
+  {
+    "id": "etr_ngwyx9trflqbma",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - A549-C3",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025015"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_yymu5907if2gog"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-21"
+      },
+      "confluency_pct": {
+        "value": 73.4
+      },
+      "viability_pct": {
+        "value": 97.4
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-21T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_yymu5907if2gog-5/"
+  },
+  {
+    "id": "etr_yo4rcb1kjtgq01",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - A549-C3",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025015"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_yymu5907if2gog"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-02-26"
+      },
+      "confluency_pct": {
+        "value": 83.7
+      },
+      "viability_pct": {
+        "value": 89.3
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-26T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_yymu5907if2gog-6/"
+  },
+  {
+    "id": "etr_t11php0xi5bj5d",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - COS-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025016"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_4i3qk2iagl58kx"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-10"
+      },
+      "confluency_pct": {
+        "value": 91.6
+      },
+      "viability_pct": {
+        "value": 89.3
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-10T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_4i3qk2iagl58kx-1/"
+  },
+  {
+    "id": "etr_vmzwffhhcmktlz",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - COS-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025016"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_4i3qk2iagl58kx"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-13"
+      },
+      "confluency_pct": {
+        "value": 77.2
+      },
+      "viability_pct": {
+        "value": 91.1
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-13T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_4i3qk2iagl58kx-2/"
+  },
+  {
+    "id": "etr_82795e5iz31yru",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - COS-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025016"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_4i3qk2iagl58kx"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-15"
+      },
+      "confluency_pct": {
+        "value": 76.7
+      },
+      "viability_pct": {
+        "value": 92.8
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-15T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_4i3qk2iagl58kx-3/"
+  },
+  {
+    "id": "etr_21o0z5qru54d8w",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - COS-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025016"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_4i3qk2iagl58kx"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-17"
+      },
+      "confluency_pct": {
+        "value": 87.4
+      },
+      "viability_pct": {
+        "value": 97.8
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-17T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_4i3qk2iagl58kx-4/"
+  },
+  {
+    "id": "etr_83rlkte4261bw4",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - COS-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025016"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_4i3qk2iagl58kx"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-22"
+      },
+      "confluency_pct": {
+        "value": 70.4
+      },
+      "viability_pct": {
+        "value": 98.7
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-22T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_4i3qk2iagl58kx-5/"
+  },
+  {
+    "id": "etr_a8hyexf7jxjn6f",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - COS-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025016"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_4i3qk2iagl58kx"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-02-27"
+      },
+      "confluency_pct": {
+        "value": 79.9
+      },
+      "viability_pct": {
+        "value": 91.5
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-27T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_4i3qk2iagl58kx-6/"
+  },
+  {
+    "id": "etr_ddhcvsqame4yri",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - NIH-3T3-C12",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025017"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_bvm2p9e6gbps3y"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-12"
+      },
+      "confluency_pct": {
+        "value": 72.2
+      },
+      "viability_pct": {
+        "value": 97.3
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-12T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_bvm2p9e6gbps3y-1/"
+  },
+  {
+    "id": "etr_5e11e9ftaxp0wf",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - NIH-3T3-C12",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025017"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_bvm2p9e6gbps3y"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-16"
+      },
+      "confluency_pct": {
+        "value": 80.3
+      },
+      "viability_pct": {
+        "value": 95.9
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-16T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_bvm2p9e6gbps3y-2/"
+  },
+  {
+    "id": "etr_vn8lfjdtvv2y4x",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - CHO-K1-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025018"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_xe6sylztgxn0gu"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-14"
+      },
+      "confluency_pct": {
+        "value": 77.5
+      },
+      "viability_pct": {
+        "value": 94.0
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-02-14T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_xe6sylztgxn0gu-1/"
+  },
+  {
+    "id": "etr_ox22iniwc5amln",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - CHO-K1-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025018"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_xe6sylztgxn0gu"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-17"
+      },
+      "confluency_pct": {
+        "value": 91.0
+      },
+      "viability_pct": {
+        "value": 92.8
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-17T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_xe6sylztgxn0gu-2/"
+  },
+  {
+    "id": "etr_81acjbc2swsozc",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - CHO-K1-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025018"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_xe6sylztgxn0gu"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-20"
+      },
+      "confluency_pct": {
+        "value": 83.4
+      },
+      "viability_pct": {
+        "value": 95.1
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-20T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_xe6sylztgxn0gu-3/"
+  },
+  {
+    "id": "etr_c79flv1xxlp8ii",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - CHO-K1-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025018"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_xe6sylztgxn0gu"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-22"
+      },
+      "confluency_pct": {
+        "value": 93.1
+      },
+      "viability_pct": {
+        "value": 89.3
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-22T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_xe6sylztgxn0gu-4/"
+  },
+  {
+    "id": "etr_xxgaearms3jn05",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - CHO-K1-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025018"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_xe6sylztgxn0gu"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-02-24"
+      },
+      "confluency_pct": {
+        "value": 88.3
+      },
+      "viability_pct": {
+        "value": 89.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-24T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_xe6sylztgxn0gu-5/"
+  },
+  {
+    "id": "etr_jczucqmrunjdu0",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - CHO-K1-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025018"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_xe6sylztgxn0gu"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-02-28"
+      },
+      "confluency_pct": {
+        "value": 75.7
+      },
+      "viability_pct": {
+        "value": 93.9
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-28T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_xe6sylztgxn0gu-6/"
+  },
+  {
+    "id": "etr_bn7g8b2zxii6l3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - Jurkat-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025019"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_qphr62gdswm31y"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-16"
+      },
+      "confluency_pct": {
+        "value": 84.3
+      },
+      "viability_pct": {
+        "value": 89.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-16T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_qphr62gdswm31y-1/"
+  },
+  {
+    "id": "etr_298cqk4ltahukw",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - Jurkat-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025019"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_qphr62gdswm31y"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-19"
+      },
+      "confluency_pct": {
+        "value": 81.6
+      },
+      "viability_pct": {
+        "value": 94.8
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-19T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_qphr62gdswm31y-2/"
+  },
+  {
+    "id": "etr_61iaoim458ax40",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - Jurkat-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025019"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_qphr62gdswm31y"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-22"
+      },
+      "confluency_pct": {
+        "value": 72.6
+      },
+      "viability_pct": {
+        "value": 94.1
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-02-22T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_qphr62gdswm31y-3/"
+  },
+  {
+    "id": "etr_89fkbi4o6q0usw",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - Jurkat-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025019"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_qphr62gdswm31y"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-02-27"
+      },
+      "confluency_pct": {
+        "value": 79.9
+      },
+      "viability_pct": {
+        "value": 94.8
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-27T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_qphr62gdswm31y-4/"
+  },
+  {
+    "id": "etr_8ijl2z0ljch2vf",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - Jurkat-C28",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025019"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_qphr62gdswm31y"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-04"
+      },
+      "confluency_pct": {
+        "value": 74.1
+      },
+      "viability_pct": {
+        "value": 93.4
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-04T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_qphr62gdswm31y-5/"
+  },
+  {
+    "id": "etr_qq4d3kzvh4fz8o",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - Jurkat-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025020"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_q5uznofy6452h2"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-18"
+      },
+      "confluency_pct": {
+        "value": 71.2
+      },
+      "viability_pct": {
+        "value": 91.4
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-02-18T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_q5uznofy6452h2-1/"
+  },
+  {
+    "id": "etr_4utdd2ec2ihoy7",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - Jurkat-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025021"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_2y9v86wzs3t60r"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-20"
+      },
+      "confluency_pct": {
+        "value": 72.1
+      },
+      "viability_pct": {
+        "value": 94.7
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-20T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_2y9v86wzs3t60r-1/"
+  },
+  {
+    "id": "etr_hx3d43e7b7p0rn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - Jurkat-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025021"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_2y9v86wzs3t60r"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-22"
+      },
+      "confluency_pct": {
+        "value": 80.7
+      },
+      "viability_pct": {
+        "value": 92.1
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-02-22T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_2y9v86wzs3t60r-2/"
+  },
+  {
+    "id": "etr_qfwwxr5rdnpx2i",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - Jurkat-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025021"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_2y9v86wzs3t60r"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-26"
+      },
+      "confluency_pct": {
+        "value": 94.9
+      },
+      "viability_pct": {
+        "value": 94.3
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-26T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_2y9v86wzs3t60r-3/"
+  },
+  {
+    "id": "etr_mtr6snglh62c9t",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - Jurkat-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025021"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_2y9v86wzs3t60r"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-03"
+      },
+      "confluency_pct": {
+        "value": 89.2
+      },
+      "viability_pct": {
+        "value": 99.5
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-03T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_2y9v86wzs3t60r-4/"
+  },
+  {
+    "id": "etr_37c9h42m44gv3z",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - THP-1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025022"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ckjlteiyzcotoh"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-22"
+      },
+      "confluency_pct": {
+        "value": 92.8
+      },
+      "viability_pct": {
+        "value": 88.3
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-22T16:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ckjlteiyzcotoh-1/"
+  },
+  {
+    "id": "etr_8438tgbcvarlw3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - THP-1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025022"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ckjlteiyzcotoh"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-02-25"
+      },
+      "confluency_pct": {
+        "value": 78.5
+      },
+      "viability_pct": {
+        "value": 90.0
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-02-25T16:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ckjlteiyzcotoh-2/"
+  },
+  {
+    "id": "etr_fzfdsnczxvml90",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - THP-1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025022"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ckjlteiyzcotoh"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-02-27"
+      },
+      "confluency_pct": {
+        "value": 80.9
+      },
+      "viability_pct": {
+        "value": 95.4
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-02-27T16:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ckjlteiyzcotoh-3/"
+  },
+  {
+    "id": "etr_zu6wmx3n0kgazu",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - THP-1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025022"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ckjlteiyzcotoh"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-03"
+      },
+      "confluency_pct": {
+        "value": 91.3
+      },
+      "viability_pct": {
+        "value": 96.9
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-03T16:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ckjlteiyzcotoh-4/"
+  },
+  {
+    "id": "etr_v78hu7f0i9g5dz",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - THP-1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025022"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ckjlteiyzcotoh"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-05"
+      },
+      "confluency_pct": {
+        "value": 86.0
+      },
+      "viability_pct": {
+        "value": 98.2
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-05T16:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ckjlteiyzcotoh-5/"
+  },
+  {
+    "id": "etr_hym2zbppfo5mn3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - THP-1-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025022"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ckjlteiyzcotoh"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-03-07"
+      },
+      "confluency_pct": {
+        "value": 89.7
+      },
+      "viability_pct": {
+        "value": 94.6
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-07T16:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ckjlteiyzcotoh-6/"
+  },
+  {
+    "id": "etr_c4kl8cgn0t6dvw",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - MCF-7-C1",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025023"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_148p0tvhhpbmyo"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-24"
+      },
+      "confluency_pct": {
+        "value": 82.1
+      },
+      "viability_pct": {
+        "value": 88.4
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-24T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_148p0tvhhpbmyo-1/"
+  },
+  {
+    "id": "etr_bl9ot7txkdotrb",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - MCF-7-C1",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025023"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_148p0tvhhpbmyo"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-01"
+      },
+      "confluency_pct": {
+        "value": 70.1
+      },
+      "viability_pct": {
+        "value": 89.0
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-01T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_148p0tvhhpbmyo-2/"
+  },
+  {
+    "id": "etr_dhw9re2q6jxnnn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - MCF-7-C1",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025023"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_148p0tvhhpbmyo"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-06"
+      },
+      "confluency_pct": {
+        "value": 74.7
+      },
+      "viability_pct": {
+        "value": 88.5
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-06T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_148p0tvhhpbmyo-3/"
+  },
+  {
+    "id": "etr_ijc1ydmt8vt43p",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - MCF-7-C1",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025023"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_148p0tvhhpbmyo"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-11"
+      },
+      "confluency_pct": {
+        "value": 83.4
+      },
+      "viability_pct": {
+        "value": 98.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-11T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_148p0tvhhpbmyo-4/"
+  },
+  {
+    "id": "etr_ko4busu9f8q8gh",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - MCF-7-C1",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025023"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_148p0tvhhpbmyo"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-14"
+      },
+      "confluency_pct": {
+        "value": 74.8
+      },
+      "viability_pct": {
+        "value": 88.5
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-14T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_148p0tvhhpbmyo-5/"
+  },
+  {
+    "id": "etr_9w4j66cnoljq52",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - MCF-7-C1",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025023"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_148p0tvhhpbmyo"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-03-19"
+      },
+      "confluency_pct": {
+        "value": 85.6
+      },
+      "viability_pct": {
+        "value": 94.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-19T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_148p0tvhhpbmyo-6/"
+  },
+  {
+    "id": "etr_fuu8dd22555jxu",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - MCF-7-C1",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025023"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_148p0tvhhpbmyo"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-03-21"
+      },
+      "confluency_pct": {
+        "value": 81.8
+      },
+      "viability_pct": {
+        "value": 90.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-21T13:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_148p0tvhhpbmyo-7/"
+  },
+  {
+    "id": "etr_b6li076a3kkrzd",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - HEK293-C26",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025024"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_dp5gjlqm5k8p4q"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-26"
+      },
+      "confluency_pct": {
+        "value": 91.7
+      },
+      "viability_pct": {
+        "value": 89.5
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-02-26T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_dp5gjlqm5k8p4q-1/"
+  },
+  {
+    "id": "etr_0vdp6orsnc2czo",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - HEK293-C26",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025024"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_dp5gjlqm5k8p4q"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-02"
+      },
+      "confluency_pct": {
+        "value": 89.5
+      },
+      "viability_pct": {
+        "value": 94.0
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-02T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_dp5gjlqm5k8p4q-2/"
+  },
+  {
+    "id": "etr_g34iq7zj3swebn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - HEK293-C26",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025024"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_dp5gjlqm5k8p4q"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-04"
+      },
+      "confluency_pct": {
+        "value": 84.9
+      },
+      "viability_pct": {
+        "value": 90.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-04T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_dp5gjlqm5k8p4q-3/"
+  },
+  {
+    "id": "etr_f60yknfu84xyjo",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - THP-1-C5",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025025"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_18hafeyuhz1gv0"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-02-28"
+      },
+      "confluency_pct": {
+        "value": 70.5
+      },
+      "viability_pct": {
+        "value": 97.0
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-02-28T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_18hafeyuhz1gv0-1/"
+  },
+  {
+    "id": "etr_xvaj2k8xpnmjqy",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - THP-1-C5",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025025"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_18hafeyuhz1gv0"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-05"
+      },
+      "confluency_pct": {
+        "value": 90.6
+      },
+      "viability_pct": {
+        "value": 92.6
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-05T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_18hafeyuhz1gv0-2/"
+  },
+  {
+    "id": "etr_984uvkyrmjljx8",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - THP-1-C5",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025025"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_18hafeyuhz1gv0"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-07"
+      },
+      "confluency_pct": {
+        "value": 86.3
+      },
+      "viability_pct": {
+        "value": 90.2
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-07T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_18hafeyuhz1gv0-3/"
+  },
+  {
+    "id": "etr_olfark6o0u93mz",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - HEK293-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025026"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ozcywd14ve92mp"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-02"
+      },
+      "confluency_pct": {
+        "value": 87.2
+      },
+      "viability_pct": {
+        "value": 95.3
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-02T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ozcywd14ve92mp-1/"
+  },
+  {
+    "id": "etr_kgxukq00u686xi",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - HEK293-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025026"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ozcywd14ve92mp"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-06"
+      },
+      "confluency_pct": {
+        "value": 75.6
+      },
+      "viability_pct": {
+        "value": 98.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-06T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ozcywd14ve92mp-2/"
+  },
+  {
+    "id": "etr_jk4q5v7c6s5nkb",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - HEK293-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025026"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ozcywd14ve92mp"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-10"
+      },
+      "confluency_pct": {
+        "value": 91.4
+      },
+      "viability_pct": {
+        "value": 89.6
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-10T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ozcywd14ve92mp-3/"
+  },
+  {
+    "id": "etr_969f5gcl9lcqh1",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - HEK293-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025026"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ozcywd14ve92mp"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-14"
+      },
+      "confluency_pct": {
+        "value": 84.4
+      },
+      "viability_pct": {
+        "value": 89.8
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-14T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ozcywd14ve92mp-4/"
+  },
+  {
+    "id": "etr_ppprat0861taa0",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - HEK293-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025026"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ozcywd14ve92mp"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-17"
+      },
+      "confluency_pct": {
+        "value": 75.7
+      },
+      "viability_pct": {
+        "value": 98.1
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-17T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ozcywd14ve92mp-5/"
+  },
+  {
+    "id": "etr_nvg3kk0vm59m6m",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - HEK293-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025026"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ozcywd14ve92mp"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-03-20"
+      },
+      "confluency_pct": {
+        "value": 74.7
+      },
+      "viability_pct": {
+        "value": 98.9
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-20T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ozcywd14ve92mp-6/"
+  },
+  {
+    "id": "etr_i9hasez2nx1wvb",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - HEK293-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025026"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ozcywd14ve92mp"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-03-22"
+      },
+      "confluency_pct": {
+        "value": 72.7
+      },
+      "viability_pct": {
+        "value": 97.6
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-22T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ozcywd14ve92mp-7/"
+  },
+  {
+    "id": "etr_pejzhyapdswzp6",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 8 - HEK293-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025026"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_ozcywd14ve92mp"
+      },
+      "passage_number": {
+        "value": 8
+      },
+      "passage_date": {
+        "value": "2025-03-24"
+      },
+      "confluency_pct": {
+        "value": 82.8
+      },
+      "viability_pct": {
+        "value": 95.1
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-24T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_ozcywd14ve92mp-8/"
+  },
+  {
+    "id": "etr_rv239moft6yria",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - MCF-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025027"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_w3zp08j3trp0j4"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-04"
+      },
+      "confluency_pct": {
+        "value": 72.2
+      },
+      "viability_pct": {
+        "value": 89.3
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-04T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_w3zp08j3trp0j4-1/"
+  },
+  {
+    "id": "etr_82c06xq9jb354m",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - MCF-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025027"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_w3zp08j3trp0j4"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-09"
+      },
+      "confluency_pct": {
+        "value": 86.9
+      },
+      "viability_pct": {
+        "value": 92.9
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-09T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_w3zp08j3trp0j4-2/"
+  },
+  {
+    "id": "etr_aexl68j0nmeoq4",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - MCF-7-C7",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025027"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_w3zp08j3trp0j4"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-11"
+      },
+      "confluency_pct": {
+        "value": 87.2
+      },
+      "viability_pct": {
+        "value": 93.5
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-11T14:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_w3zp08j3trp0j4-3/"
+  },
+  {
+    "id": "etr_94d6rupw2w5506",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - K562-C40",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025028"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_mrlrmjkv5usgio"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-06"
+      },
+      "confluency_pct": {
+        "value": 82.1
+      },
+      "viability_pct": {
+        "value": 93.6
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-06T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_mrlrmjkv5usgio-1/"
+  },
+  {
+    "id": "etr_cxa5s00i85sywp",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - K562-C40",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025028"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_mrlrmjkv5usgio"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-11"
+      },
+      "confluency_pct": {
+        "value": 88.2
+      },
+      "viability_pct": {
+        "value": 93.5
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-11T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_mrlrmjkv5usgio-2/"
+  },
+  {
+    "id": "etr_6wa7sqrf1llkst",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - K562-C40",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025028"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_mrlrmjkv5usgio"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-14"
+      },
+      "confluency_pct": {
+        "value": 79.5
+      },
+      "viability_pct": {
+        "value": 97.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-14T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_mrlrmjkv5usgio-3/"
+  },
+  {
+    "id": "etr_2q4qerxdouadvw",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - K562-C40",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025028"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_mrlrmjkv5usgio"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-19"
+      },
+      "confluency_pct": {
+        "value": 77.6
+      },
+      "viability_pct": {
+        "value": 93.8
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-19T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_mrlrmjkv5usgio-4/"
+  },
+  {
+    "id": "etr_nbiquwrxze1hm3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - K562-C40",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025028"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_mrlrmjkv5usgio"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-24"
+      },
+      "confluency_pct": {
+        "value": 94.1
+      },
+      "viability_pct": {
+        "value": 91.4
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-24T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_mrlrmjkv5usgio-5/"
+  },
+  {
+    "id": "etr_d6r30ojhe4h3gm",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - K562-C40",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025028"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_mrlrmjkv5usgio"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-03-28"
+      },
+      "confluency_pct": {
+        "value": 88.9
+      },
+      "viability_pct": {
+        "value": 88.5
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-28T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_mrlrmjkv5usgio-6/"
+  },
+  {
+    "id": "etr_qvs8a0tpv726yg",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - K562-C40",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025028"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_mrlrmjkv5usgio"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-03-30"
+      },
+      "confluency_pct": {
+        "value": 90.4
+      },
+      "viability_pct": {
+        "value": 89.2
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-30T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_mrlrmjkv5usgio-7/"
+  },
+  {
+    "id": "etr_5pvyiomk2ev5s4",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 8 - K562-C40",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025028"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_mrlrmjkv5usgio"
+      },
+      "passage_number": {
+        "value": 8
+      },
+      "passage_date": {
+        "value": "2025-04-03"
+      },
+      "confluency_pct": {
+        "value": 83.7
+      },
+      "viability_pct": {
+        "value": 91.6
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-04-03T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_mrlrmjkv5usgio-8/"
+  },
+  {
+    "id": "etr_hzy7ez9gtwz1uu",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025029"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_koixntm9tmqliz"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-08"
+      },
+      "confluency_pct": {
+        "value": 93.6
+      },
+      "viability_pct": {
+        "value": 96.2
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-08T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_koixntm9tmqliz-1/"
+  },
+  {
+    "id": "etr_3safyh1fkj4yk1",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025029"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_koixntm9tmqliz"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-12"
+      },
+      "confluency_pct": {
+        "value": 70.8
+      },
+      "viability_pct": {
+        "value": 97.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-12T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_koixntm9tmqliz-2/"
+  },
+  {
+    "id": "etr_xns2zybno2y8b0",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025029"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_koixntm9tmqliz"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-15"
+      },
+      "confluency_pct": {
+        "value": 75.1
+      },
+      "viability_pct": {
+        "value": 98.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-15T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_koixntm9tmqliz-3/"
+  },
+  {
+    "id": "etr_zx1tv18kgyggsn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025029"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_koixntm9tmqliz"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-18"
+      },
+      "confluency_pct": {
+        "value": 80.7
+      },
+      "viability_pct": {
+        "value": 94.4
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-18T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_koixntm9tmqliz-4/"
+  },
+  {
+    "id": "etr_4aq7b7v1w4k2tc",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025029"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_koixntm9tmqliz"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-21"
+      },
+      "confluency_pct": {
+        "value": 87.7
+      },
+      "viability_pct": {
+        "value": 94.0
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-21T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_koixntm9tmqliz-5/"
+  },
+  {
+    "id": "etr_ftom5xlk8wru1x",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025029"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_koixntm9tmqliz"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-03-23"
+      },
+      "confluency_pct": {
+        "value": 72.9
+      },
+      "viability_pct": {
+        "value": 92.0
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-23T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_koixntm9tmqliz-6/"
+  },
+  {
+    "id": "etr_yl68ntk63n2qb6",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025029"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_koixntm9tmqliz"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-03-26"
+      },
+      "confluency_pct": {
+        "value": 74.8
+      },
+      "viability_pct": {
+        "value": 93.9
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-26T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_koixntm9tmqliz-7/"
+  },
+  {
+    "id": "etr_twhwhy4h350p3c",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 8 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025029"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_koixntm9tmqliz"
+      },
+      "passage_number": {
+        "value": 8
+      },
+      "passage_date": {
+        "value": "2025-03-29"
+      },
+      "confluency_pct": {
+        "value": 87.2
+      },
+      "viability_pct": {
+        "value": 88.3
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-29T10:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_koixntm9tmqliz-8/"
+  },
+  {
+    "id": "etr_uuijnwpaytxw1v",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - COS-7-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025030"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_v93kmkzebbk7w1"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-10"
+      },
+      "confluency_pct": {
+        "value": 87.5
+      },
+      "viability_pct": {
+        "value": 88.8
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-10T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_v93kmkzebbk7w1-1/"
+  },
+  {
+    "id": "etr_2kd1poxrteo2t8",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - COS-7-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025030"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_v93kmkzebbk7w1"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-12"
+      },
+      "confluency_pct": {
+        "value": 73.6
+      },
+      "viability_pct": {
+        "value": 95.8
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-12T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_v93kmkzebbk7w1-2/"
+  },
+  {
+    "id": "etr_5fbuotdh00h64f",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - COS-7-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025030"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_v93kmkzebbk7w1"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-14"
+      },
+      "confluency_pct": {
+        "value": 74.6
+      },
+      "viability_pct": {
+        "value": 95.1
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-14T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_v93kmkzebbk7w1-3/"
+  },
+  {
+    "id": "etr_g24479qtkcd0rl",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - COS-7-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025030"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_v93kmkzebbk7w1"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-17"
+      },
+      "confluency_pct": {
+        "value": 73.2
+      },
+      "viability_pct": {
+        "value": 95.5
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-17T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_v93kmkzebbk7w1-4/"
+  },
+  {
+    "id": "etr_cgrlxyfu38gl2z",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - COS-7-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025030"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_v93kmkzebbk7w1"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-21"
+      },
+      "confluency_pct": {
+        "value": 86.0
+      },
+      "viability_pct": {
+        "value": 91.2
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-21T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_v93kmkzebbk7w1-5/"
+  },
+  {
+    "id": "etr_05qmktgv44ftj5",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - COS-7-C31",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025030"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_v93kmkzebbk7w1"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-03-24"
+      },
+      "confluency_pct": {
+        "value": 71.9
+      },
+      "viability_pct": {
+        "value": 88.9
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-24T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_v93kmkzebbk7w1-6/"
+  },
+  {
+    "id": "etr_u1hbj6txfo6v4e",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - MCF-7-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025031"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_j5ecruyf38diuo"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-12"
+      },
+      "confluency_pct": {
+        "value": 82.5
+      },
+      "viability_pct": {
+        "value": 89.0
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-12T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_j5ecruyf38diuo-1/"
+  },
+  {
+    "id": "etr_i89y1ffuu5f07b",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - MCF-7-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025031"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_j5ecruyf38diuo"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-14"
+      },
+      "confluency_pct": {
+        "value": 89.0
+      },
+      "viability_pct": {
+        "value": 90.7
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-14T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_j5ecruyf38diuo-2/"
+  },
+  {
+    "id": "etr_bh6nqqb9lzs34j",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - MCF-7-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025031"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_j5ecruyf38diuo"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-18"
+      },
+      "confluency_pct": {
+        "value": 83.6
+      },
+      "viability_pct": {
+        "value": 90.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-18T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_j5ecruyf38diuo-3/"
+  },
+  {
+    "id": "etr_x4sn6sm5rrvsff",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - MCF-7-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025031"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_j5ecruyf38diuo"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-22"
+      },
+      "confluency_pct": {
+        "value": 71.9
+      },
+      "viability_pct": {
+        "value": 95.4
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-22T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_j5ecruyf38diuo-4/"
+  },
+  {
+    "id": "etr_fv3xoleyrvxoie",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - MCF-7-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025031"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_j5ecruyf38diuo"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-25"
+      },
+      "confluency_pct": {
+        "value": 84.8
+      },
+      "viability_pct": {
+        "value": 89.5
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-25T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_j5ecruyf38diuo-5/"
+  },
+  {
+    "id": "etr_ff7so8w5038hvq",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - MCF-7-C22",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025031"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_j5ecruyf38diuo"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-03-27"
+      },
+      "confluency_pct": {
+        "value": 82.0
+      },
+      "viability_pct": {
+        "value": 90.5
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-27T09:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_j5ecruyf38diuo-6/"
+  },
+  {
+    "id": "etr_wsgy7vcneas6y3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025032"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_kwv08hhxfgcaqv"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-14"
+      },
+      "confluency_pct": {
+        "value": 85.1
+      },
+      "viability_pct": {
+        "value": 90.0
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-14T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_kwv08hhxfgcaqv-1/"
+  },
+  {
+    "id": "etr_serev361xsnbti",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025032"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_kwv08hhxfgcaqv"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-16"
+      },
+      "confluency_pct": {
+        "value": 90.1
+      },
+      "viability_pct": {
+        "value": 97.1
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-16T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_kwv08hhxfgcaqv-2/"
+  },
+  {
+    "id": "etr_264upj16dvtja0",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025032"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_kwv08hhxfgcaqv"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-20"
+      },
+      "confluency_pct": {
+        "value": 70.2
+      },
+      "viability_pct": {
+        "value": 94.0
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-20T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_kwv08hhxfgcaqv-3/"
+  },
+  {
+    "id": "etr_xylnfxj4pnjy1o",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025032"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_kwv08hhxfgcaqv"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-22"
+      },
+      "confluency_pct": {
+        "value": 89.6
+      },
+      "viability_pct": {
+        "value": 93.5
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-22T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_kwv08hhxfgcaqv-4/"
+  },
+  {
+    "id": "etr_9u1oe5ei28ds22",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025032"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_kwv08hhxfgcaqv"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-03-27"
+      },
+      "confluency_pct": {
+        "value": 85.4
+      },
+      "viability_pct": {
+        "value": 95.9
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-27T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_kwv08hhxfgcaqv-5/"
+  },
+  {
+    "id": "etr_8adf7pchcbn9ws",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025032"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_kwv08hhxfgcaqv"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-03-30"
+      },
+      "confluency_pct": {
+        "value": 87.8
+      },
+      "viability_pct": {
+        "value": 94.9
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-30T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_kwv08hhxfgcaqv-6/"
+  },
+  {
+    "id": "etr_a47sh2szwymx9d",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 7 - MCF-7-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025032"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_kwv08hhxfgcaqv"
+      },
+      "passage_number": {
+        "value": 7
+      },
+      "passage_date": {
+        "value": "2025-04-04"
+      },
+      "confluency_pct": {
+        "value": 76.9
+      },
+      "viability_pct": {
+        "value": 92.6
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-04-04T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_kwv08hhxfgcaqv-7/"
+  },
+  {
+    "id": "etr_haz7t0uum3i8qo",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - NIH-3T3-C30",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025033"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_72wx7ptx63cfl0"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-16"
+      },
+      "confluency_pct": {
+        "value": 70.1
+      },
+      "viability_pct": {
+        "value": 90.0
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-16T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_72wx7ptx63cfl0-1/"
+  },
+  {
+    "id": "etr_ck82853uy8u118",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - NIH-3T3-C30",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025033"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_72wx7ptx63cfl0"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-18"
+      },
+      "confluency_pct": {
+        "value": 81.5
+      },
+      "viability_pct": {
+        "value": 93.3
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-18T12:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_72wx7ptx63cfl0-2/"
+  },
+  {
+    "id": "etr_w9yil8sa3idy3c",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - COS-7-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025034"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_7srcbpljd84u89"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-18"
+      },
+      "confluency_pct": {
+        "value": 93.3
+      },
+      "viability_pct": {
+        "value": 93.5
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-18T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_7srcbpljd84u89-1/"
+  },
+  {
+    "id": "etr_j8y6rh05hhiwfd",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - COS-7-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025034"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_7srcbpljd84u89"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-21"
+      },
+      "confluency_pct": {
+        "value": 93.0
+      },
+      "viability_pct": {
+        "value": 95.8
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-21T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_7srcbpljd84u89-2/"
+  },
+  {
+    "id": "etr_84nl65ujg1so1e",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - COS-7-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025034"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_7srcbpljd84u89"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-23"
+      },
+      "confluency_pct": {
+        "value": 83.1
+      },
+      "viability_pct": {
+        "value": 92.9
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-23T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_7srcbpljd84u89-3/"
+  },
+  {
+    "id": "etr_m41qeslayndn5g",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - COS-7-C20",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025034"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_7srcbpljd84u89"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-25"
+      },
+      "confluency_pct": {
+        "value": 76.6
+      },
+      "viability_pct": {
+        "value": 91.1
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-25T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_7srcbpljd84u89-4/"
+  },
+  {
+    "id": "etr_gpp1noqu9y3z2t",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - U2OS-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025035"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_9p38qoldforxo1"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-20"
+      },
+      "confluency_pct": {
+        "value": 91.4
+      },
+      "viability_pct": {
+        "value": 90.3
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-20T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_9p38qoldforxo1-1/"
+  },
+  {
+    "id": "etr_gr94sz2kuuoyc3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - U2OS-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025035"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_9p38qoldforxo1"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-25"
+      },
+      "confluency_pct": {
+        "value": 81.9
+      },
+      "viability_pct": {
+        "value": 95.2
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-03-25T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_9p38qoldforxo1-2/"
+  },
+  {
+    "id": "etr_mu7jae58huxg2m",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - U2OS-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025035"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_9p38qoldforxo1"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-29"
+      },
+      "confluency_pct": {
+        "value": 86.8
+      },
+      "viability_pct": {
+        "value": 93.6
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-29T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_9p38qoldforxo1-3/"
+  },
+  {
+    "id": "etr_wq85x7pwo6cmlx",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - U2OS-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025035"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_9p38qoldforxo1"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-03-31"
+      },
+      "confluency_pct": {
+        "value": 87.8
+      },
+      "viability_pct": {
+        "value": 95.0
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-31T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_9p38qoldforxo1-4/"
+  },
+  {
+    "id": "etr_270sqg4eij00ho",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - U2OS-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025035"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_9p38qoldforxo1"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-04-04"
+      },
+      "confluency_pct": {
+        "value": 72.4
+      },
+      "viability_pct": {
+        "value": 98.8
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-04-04T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_9p38qoldforxo1-5/"
+  },
+  {
+    "id": "etr_1s9dwd7oi0pesg",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - U2OS-C29",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025035"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_9p38qoldforxo1"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-04-06"
+      },
+      "confluency_pct": {
+        "value": 70.9
+      },
+      "viability_pct": {
+        "value": 92.1
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-04-06T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_9p38qoldforxo1-6/"
+  },
+  {
+    "id": "etr_te8tvq05pxt6ri",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - A549-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025036"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_3a5qbswrpbjek5"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-22"
+      },
+      "confluency_pct": {
+        "value": 72.2
+      },
+      "viability_pct": {
+        "value": 91.5
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-22T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_3a5qbswrpbjek5-1/"
+  },
+  {
+    "id": "etr_ka34mqa78rapki",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - A549-C8",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025036"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_3a5qbswrpbjek5"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-26"
+      },
+      "confluency_pct": {
+        "value": 70.2
+      },
+      "viability_pct": {
+        "value": 92.3
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-26T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_3a5qbswrpbjek5-2/"
+  },
+  {
+    "id": "etr_izx3hcws2wyjxt",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - Jurkat-C11",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025037"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_aoi4e8xf7kzorq"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-24"
+      },
+      "confluency_pct": {
+        "value": 76.7
+      },
+      "viability_pct": {
+        "value": 90.2
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-24T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_aoi4e8xf7kzorq-1/"
+  },
+  {
+    "id": "etr_kwwjwgabtgdjz0",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - Jurkat-C11",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025037"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_aoi4e8xf7kzorq"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-27"
+      },
+      "confluency_pct": {
+        "value": 75.8
+      },
+      "viability_pct": {
+        "value": 89.7
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "J. Chen"
+      }
+    },
+    "creator": {
+      "handle": "jchen",
+      "name": "J. Chen"
+    },
+    "createdAt": "2025-03-27T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_aoi4e8xf7kzorq-2/"
+  },
+  {
+    "id": "etr_p2rnzbc1fjotg6",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - Jurkat-C11",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025037"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_aoi4e8xf7kzorq"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-03-30"
+      },
+      "confluency_pct": {
+        "value": 76.3
+      },
+      "viability_pct": {
+        "value": 92.4
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-30T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_aoi4e8xf7kzorq-3/"
+  },
+  {
+    "id": "etr_i1p0bq1s9ryllw",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - Jurkat-C11",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025037"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_aoi4e8xf7kzorq"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-04-01"
+      },
+      "confluency_pct": {
+        "value": 71.1
+      },
+      "viability_pct": {
+        "value": 98.8
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-04-01T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_aoi4e8xf7kzorq-4/"
+  },
+  {
+    "id": "etr_rkmby9ipa2voi8",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - Jurkat-C11",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025037"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_aoi4e8xf7kzorq"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-04-03"
+      },
+      "confluency_pct": {
+        "value": 84.5
+      },
+      "viability_pct": {
+        "value": 95.9
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-04-03T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_aoi4e8xf7kzorq-5/"
+  },
+  {
+    "id": "etr_1irym81cmftdrl",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 6 - Jurkat-C11",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025037"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_aoi4e8xf7kzorq"
+      },
+      "passage_number": {
+        "value": 6
+      },
+      "passage_date": {
+        "value": "2025-04-06"
+      },
+      "confluency_pct": {
+        "value": 84.0
+      },
+      "viability_pct": {
+        "value": 95.4
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-04-06T17:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_aoi4e8xf7kzorq-6/"
+  },
+  {
+    "id": "etr_me6rpkzggm0j36",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - K562-C33",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025038"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_5j2o7s3kkv9rft"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-26"
+      },
+      "confluency_pct": {
+        "value": 83.9
+      },
+      "viability_pct": {
+        "value": 88.8
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-03-26T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_5j2o7s3kkv9rft-1/"
+  },
+  {
+    "id": "etr_3tq1s05wnwlc83",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - K562-C33",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025038"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_5j2o7s3kkv9rft"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-31"
+      },
+      "confluency_pct": {
+        "value": 74.7
+      },
+      "viability_pct": {
+        "value": 95.9
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "M. Rodriguez"
+      }
+    },
+    "creator": {
+      "handle": "mrodriguez",
+      "name": "M. Rodriguez"
+    },
+    "createdAt": "2025-03-31T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_5j2o7s3kkv9rft-2/"
+  },
+  {
+    "id": "etr_koldxb7gbdgbxn",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - K562-C33",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025038"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_5j2o7s3kkv9rft"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-04-03"
+      },
+      "confluency_pct": {
+        "value": 82.2
+      },
+      "viability_pct": {
+        "value": 95.2
+      },
+      "split_ratio": {
+        "value": "1:10"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-04-03T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_5j2o7s3kkv9rft-3/"
+  },
+  {
+    "id": "etr_nvc7hr6c2cu7on",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - K562-C33",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025038"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_5j2o7s3kkv9rft"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-04-07"
+      },
+      "confluency_pct": {
+        "value": 87.7
+      },
+      "viability_pct": {
+        "value": 97.5
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "K. Pande"
+      }
+    },
+    "creator": {
+      "handle": "kpande",
+      "name": "K. Pande"
+    },
+    "createdAt": "2025-04-07T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_5j2o7s3kkv9rft-4/"
+  },
+  {
+    "id": "etr_ck88d0tgsiwg0o",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - K562-C33",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025038"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_5j2o7s3kkv9rft"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-04-09"
+      },
+      "confluency_pct": {
+        "value": 72.6
+      },
+      "viability_pct": {
+        "value": 95.3
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-04-09T11:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_5j2o7s3kkv9rft-5/"
+  },
+  {
+    "id": "etr_x5ggomf9pml9ln",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 1 - Jurkat-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025039"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_i1b0z3nx39rbsv"
+      },
+      "passage_number": {
+        "value": 1
+      },
+      "passage_date": {
+        "value": "2025-03-28"
+      },
+      "confluency_pct": {
+        "value": 89.1
+      },
+      "viability_pct": {
+        "value": 93.0
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-03-28T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_i1b0z3nx39rbsv-1/"
+  },
+  {
+    "id": "etr_tnt0mq8abkae6a",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 2 - Jurkat-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025039"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_i1b0z3nx39rbsv"
+      },
+      "passage_number": {
+        "value": 2
+      },
+      "passage_date": {
+        "value": "2025-03-31"
+      },
+      "confluency_pct": {
+        "value": 94.6
+      },
+      "viability_pct": {
+        "value": 90.5
+      },
+      "split_ratio": {
+        "value": "1:5"
+      },
+      "performed_by": {
+        "value": "T. Okafor"
+      }
+    },
+    "creator": {
+      "handle": "tokafor",
+      "name": "T. Okafor"
+    },
+    "createdAt": "2025-03-31T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_i1b0z3nx39rbsv-2/"
+  },
+  {
+    "id": "etr_37suudqfj6ijku",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 3 - Jurkat-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025039"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_i1b0z3nx39rbsv"
+      },
+      "passage_number": {
+        "value": 3
+      },
+      "passage_date": {
+        "value": "2025-04-02"
+      },
+      "confluency_pct": {
+        "value": 84.2
+      },
+      "viability_pct": {
+        "value": 90.5
+      },
+      "split_ratio": {
+        "value": "1:3"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-04-02T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_i1b0z3nx39rbsv-3/"
+  },
+  {
+    "id": "etr_g3yu6vk0ucc1m3",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 4 - Jurkat-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025039"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_i1b0z3nx39rbsv"
+      },
+      "passage_number": {
+        "value": 4
+      },
+      "passage_date": {
+        "value": "2025-04-06"
+      },
+      "confluency_pct": {
+        "value": 80.4
+      },
+      "viability_pct": {
+        "value": 98.0
+      },
+      "split_ratio": {
+        "value": "1:4"
+      },
+      "performed_by": {
+        "value": "A. Singh"
+      }
+    },
+    "creator": {
+      "handle": "asingh",
+      "name": "A. Singh"
+    },
+    "createdAt": "2025-04-06T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_i1b0z3nx39rbsv-4/"
+  },
+  {
+    "id": "etr_1nkbtfshb0oqvs",
+    "entityType": "entry",
+    "schema": {
+      "id": "ts_passage01",
+      "name": "Passage Record"
+    },
+    "name": "Passage 5 - Jurkat-C16",
+    "fields": {
+      "cell_line_registry_id": {
+        "value": "CL-2025039"
+      },
+      "cell_line_entity_id": {
+        "value": "ent_i1b0z3nx39rbsv"
+      },
+      "passage_number": {
+        "value": 5
+      },
+      "passage_date": {
+        "value": "2025-04-08"
+      },
+      "confluency_pct": {
+        "value": 75.6
+      },
+      "viability_pct": {
+        "value": 91.3
+      },
+      "split_ratio": {
+        "value": "1:6"
+      },
+      "performed_by": {
+        "value": "L. Wu"
+      }
+    },
+    "creator": {
+      "handle": "lwu",
+      "name": "L. Wu"
+    },
+    "createdAt": "2025-04-08T15:00:00Z",
+    "webURL": "https://stonybrook.benchling.com/stonybrook/f_/entry-ent_i1b0z3nx39rbsv-5/"
+  }
+]

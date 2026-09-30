@@ -1,0 +1,12 @@
+{
+  "vials_missing_location": [
+    "VIAL-100103"
+  ],
+  "coc_missing_performer": [
+    "coc_etr_gpp1noqu9y3z2t",
+    "coc_transfer_500100"
+  ],
+  "vials_bad_barcode": [
+    "VIAL-100097"
+  ]
+}
